@@ -1,9 +1,14 @@
 <div ng-controller="CreateToecicController as vm" id="create-toeic">
-    <h3 class="title">Thêm dữ liệu cho đề thi toeic</h3> 
+    <div class="form-group" style="width:100%;visibility: hidden;">
+            <form >
+                <input type="text" class="form-control" placeholder="Tìm kiếm " >
+            </form>
+        </div>
+    <h3 class="title">THÊM ĐỀ THI TOEIC</h3> 
     <div class="form-create">
         <table>
             
-            <tr>
+<!--             <tr>
                 <div class="form-group">
                     <label for="usr">Chọn part :</label>
                     <select class="form-control" ng-model="vm.selectPart"  ng-change="vm.select(vm.selectPart)">
@@ -17,7 +22,7 @@
                     </select>
                 </div>
 
-            </tr>
+            </tr> -->
             <tr>
                 <div class="form-group" >
                     <label for="pwd">Dữ liệu cho đề thi toeic:</label>

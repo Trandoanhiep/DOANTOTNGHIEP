@@ -8,8 +8,7 @@ var storage = multer.diskStorage({ //multers disk storage settings
         if(type == 'course'){
             cb(null, './DATA/COURSES/');
         }else if(type == 'toeic'){
-            var part = req.query.part;
-            cb(null, './DATA/TOEICTEST/PART' + part + "/");
+            cb(null, './DATA/TOEICTEST/');
         }
         
     },

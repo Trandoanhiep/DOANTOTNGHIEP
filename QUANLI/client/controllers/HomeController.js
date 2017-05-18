@@ -2,6 +2,12 @@ app.controller('HomeController', ['myService','$rootScope','sessionService', fun
 	var vm = this;
 
 	vm.listCourses = [];
+	vm.totalPages = [];
+	var limit = 2;
+	vm.currentPage = 1;
+	var listCourses = [];
+
+
 
 	vm.init = function(){
 		$rootScope.user = sessionService.get('user');
@@ -11,8 +17,45 @@ app.controller('HomeController', ['myService','$rootScope','sessionService', fun
 		}
 
 		myService.getListCourses().then(function(result){
-			vm.listCourses = result;
+			listCourses = result;
+
+			var totalPage = Math.ceil(listCourses.length/limit);
+			for (var i = 0; i < totalPage; i++) {
+				vm.totalPages.push(i+1);
+			}
+
+			paginate(vm.currentPage);
 		})
+	}
+
+	var paginate = function(currentPage){
+		vm.listCourses = [];
+		for (var i = (currentPage-1)*limit ; i < currentPage*limit ; i++) {
+			if(i < listCourses.length) vm.listCourses.push(listCourses[i])
+		}
+
+	}
+
+	vm.next = function(){
+		if(vm.currentPage < vm.totalPages.length){
+			vm.currentPage++;
+		}
+
+		paginate(vm.currentPage);
+	}
+
+	vm.prev = function(){
+		if(vm.currentPage > 1){
+			vm.currentPage--;
+		}
+
+		paginate(vm.currentPage);
+	}
+
+	vm.goToPage = function(page){
+		vm.currentPage = page;
+
+		paginate(vm.currentPage);
 	}
 
 	vm.show = function(str){

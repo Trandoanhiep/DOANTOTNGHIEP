@@ -2,15 +2,26 @@
 	border-radius:0; 
 }
 
+#home .left, #home .right{
+	width: 50%;
+	float: left;
+}
+
 #home .title{
 	margin: 24px;
 }
-
+#home .list{
+    width: 100%;
+    padding-bottom: 10px;
+}
 #home .course{
 	height: 154px;
-    width: 70%;
+    width: 100%;
     border-bottom: 1px solid #bbb9b9;
     margin-top: 12px;
+}
+#home .course:hover{
+	border-bottom: 4px solid #d2832e;
 }
 #home .img{
 	float: left;
@@ -37,10 +48,29 @@
 	text-decoration: none;
 	cursor: pointer;
 }
+#home .pagination{
+	text-align: center;
+    width: 100%;
+}
+#home .pagination .page{
+	margin-left: 10px;
+	cursor: pointer;
+}
+#home .pagination .active{
+	color: red;
+}
 
-#create .form-create, #create-toeic .form-create{
+#create{
+	width: 100%;
+}
+#create .form-create{
 	width: 50%;
+	margin-left: 25%;
 }
 #create img{
 	margin: 10px 0px;
+}
+
+#create-toeic .form-create{
+	width: 100%;
 }

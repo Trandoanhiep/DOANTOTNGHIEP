@@ -5,8 +5,6 @@ function($rootScope,$state, myService, sessionService, $stateParams, Upload){
 
 	vm.Zipfile;
 
-	vm.selectPart = "1";
-
 	vm.select = function(part){
 	    vm.selectPart = part;   
 	}
@@ -18,10 +16,10 @@ function($rootScope,$state, myService, sessionService, $stateParams, Upload){
 			Upload.upload({
 	            url : 'http://localhost:3000/api/upload', 
 	            data : { file : file },
-	            params :  { id : nameFile, type : 'toeic', part : vm.selectPart }
+	            params :  { id : nameFile, type : 'toeic', }
 	        }).then(function (resp) { 
 	            if(resp.data.error_code === 0){ 
-	            	
+	            	alert('Thêm đề toeic thành công');
 	            } else {
 	                alert('Lỗi upload');
 	            }
