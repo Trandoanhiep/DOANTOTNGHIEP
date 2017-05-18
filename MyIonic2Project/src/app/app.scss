@@ -1,0 +1,86 @@
+
+.menu-app .scroll-content{
+	margin-top: 100px;
+}
+.menu-app ion-content .item{
+	height: 60px;
+    border-bottom: 1px solid rgb(231, 224, 224);;
+    position: relative;
+}
+.menu-app ion-content .item .icon{
+	
+}
+.menu-app ion-content .item p{
+	position: absolute;
+    top: 0px;
+    left: 20%;
+    font-size: 18px;
+    margin: 0;
+	width: 100%;
+	margin-top: 19px;
+}
+.menu-app ion-toolbar.toolbar{
+	height: 100px;
+}
+.menu-app .avata-menu{
+	color: rgb(0, 173, 255);
+	border: 1px solid rgb(220, 221, 240);
+	height: 50px;
+	width: 50px;
+	float: left;
+	margin: 0;
+	margin-right: 10px;
+	text-align: center;
+	padding-top: 2px;
+	font-size: 36px;
+	border-radius: 50%;
+	background: white;
+}
+.menu-app .user-name-menu{
+	height: 40px;
+	width: calc(100% - 60px);
+	float: left;
+	margin: 0;
+	padding-top: 16px;
+	font-size: 18px;
+}
+
+ion-nav ion-content{
+	background: #ddeaf7!important;
+}
+
+.alert-show-infor .alert-title{
+	color: rgb(20, 0, 255);
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.alert-head{
+	padding: 10px!important;
+	text-align: center!important;
+	color: white;
+	background: rgb(64, 82, 216);
+	margin-bottom:10px;
+}
+
+.alert-show-infor .alert-head{
+	text-align: center !important;
+	color: white;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #CECFD5;
+	background: white;
+	height: 50px;
+}
+.alert-show-infor .alert-message{
+	font-size: 18px;
+}
+
+.add-example-popup .alert-input-group{
+	padding: 0px 24px 8px 24px;
+}
+.add-example-popup input{
+	padding-left: 6px;
+}
+.add-example-popup .alert-button-group{
+	padding: 0px;
+}

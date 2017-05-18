@@ -1,0 +1,97 @@
+ modal-detail-word{
+
+	ion-content{
+		background: rgb(83, 66, 66)!important;
+	}
+
+	ion-content .detail-word{
+		width: 92%;
+		background: white;
+		margin-left: 3%;
+		margin-top: 5%;
+		border-radius: 4px;
+		height: 80%;
+	}
+
+	ion-content .header-word{
+		height: 50px;
+		border-bottom: 1px solid rgb(204, 204, 204);
+		text-align: center;
+		font-size: 20px;
+		color: rgb(10, 91, 179);
+		font-weight: bold;
+		padding-top: 12px;
+	}
+
+	ion-content .content-word{
+		position: relative;
+		padding: 0px 8px 0px 8px;
+		height: 83%;
+		overflow: auto;
+	}
+
+	ion-content .content-word .word{
+		margin-top: 8px;
+		margin-bottom: 0px;
+		color: rgb(10, 0, 255);
+		font-size: 17px;
+		width: 85%;
+	}
+
+	ion-content .content-word .phonetic{
+		margin-bottom: 0px;
+		margin-top: 10px;
+		color: rgb(134, 133, 133);
+	}
+
+	ion-content .content-word .des{
+		margin-top: 10px;
+		margin-bottom: 0px;
+		font-size: 16px;
+	}
+
+	ion-content .content-word .mean{
+		margin-bottom: 0px;
+		margin-top: 10px;
+		font-size: 16px;
+		color: rgb(196, 16, 16);
+	}
+
+	ion-content .content-word .input-example{
+		border: 1px dashed rgb(158, 156, 156);
+		height: 34px;
+		padding: 8px 0px 8px 12px;
+	}
+
+	ion-content .content-word .icon-volume{
+		position: absolute;
+		right: 12px;
+		top: 8px;
+		font-size: 22px;
+		padding: 2px 12px 2px 10px;
+		color: white;
+		border: 1px solid #387ef5;
+		background: #387ef5;
+		border-radius: 50%;
+		height: 30px;
+		width: 32px;
+	}
+
+	ion-content .content-word .img{
+		margin-top: 10px;
+	}
+
+	.btn-add-example{
+		height: 50px;
+		width: 50px;
+		background: rgb(255, 194, 0);
+		border-radius: 50%;
+		text-align: center;
+		color: rgb(247, 242, 242);
+		padding-top: 7px;
+		font-size: 30px;
+		position: absolute;
+		bottom: 20px;
+		right: 20px;
+	}
+}

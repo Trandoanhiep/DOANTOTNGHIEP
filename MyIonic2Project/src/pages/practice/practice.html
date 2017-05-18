@@ -1,0 +1,24 @@
+<!--
+  Generated template for the Practice page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Luyện tập</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+	<ion-list>
+		<div class="item" *ngFor ="let item of listPractice" (click)="selectPractice(item.page)">
+			<img src="./assets/images/{{ item.image }}">
+			<p class="name">{{ item.name }}</p>
+			<p class="des">{{ item.des }}</p>
+		</div>
+	</ion-list>
+</ion-content>

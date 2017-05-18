@@ -1,0 +1,108 @@
+.toolbar .toolbar-background{
+	background: #387ef5;
+}
+.toolbar .toolbar-title,.toolbar .bar-button{
+	color: white;
+}
+
+
+page-hello-ionic {
+	background: #eeeeee;
+
+    ion-content{
+        background: #ddeaf7!important;
+    }
+
+    .current-course{
+        height: calc(30% - 10px);
+        background: white;
+        margin-bottom: 10px;
+        color: black;
+        position: relative;
+    }
+
+    .current-course .img{
+        height: 30px;
+        width: 40px;
+        border-radius: 50%;
+        float: left;
+    }
+
+    .current-course .course-name{
+        margin-left: 52px;
+        font-size: 18px;
+        margin-top: 6px;
+    }
+
+    .current-course .total-lesson span{
+        border: 2px solid #F5A938;
+        padding-left: 6px;
+        padding-right: 5px;
+        padding: 0px 5px 0px 6px;
+        border-radius: 50%;
+        margin: 0px 10px;
+        color: #F5A938;
+    }
+
+    .current-course .total-word span{
+        border: 2px solid #F5A938;
+        border-radius: 50%;
+        margin: 0px 10px;
+        color: #F5A938;
+        padding: 1px 4px 0px 3px;
+    }
+
+    .icon-practice{
+        height: 32px;
+        position: absolute;
+        bottom: 14px;
+        right: 18px;
+    }
+
+    .list-lesson{
+        height: 70%;
+        overflow: auto;
+        padding:8px;
+    }
+
+    .list-lesson .item{
+        height: 90px;
+        background: white;
+        border: 1px solid #CECBCB;
+        margin-bottom: 4px;
+        padding-left: 0px;
+        border-radius: 10px;
+        position: relative
+    }
+
+    .list-lesson .item .lesson-image{
+        height: 88px;
+        width: 90px;
+        float: left;
+        margin-right: 12px;
+    }
+
+    .list-lesson .item .lesson-image img{
+        border-radius: 10px;
+        height: 100%;
+    }
+
+    .list-lesson .item .lesson-name{
+        width: 60%;
+        height: 100%;
+        position: absolute;
+        left: 98px;
+    }
+
+    .list-lesson .item .name{
+        margin-top: 14%;
+        font-size: 20px;
+        color: black;
+    }
+
+    .list-lesson .item .num-word{
+        margin-top: 0;
+        float: right;
+        width: 50px;
+    }
+}

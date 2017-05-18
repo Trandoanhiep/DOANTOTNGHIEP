@@ -1,0 +1,143 @@
+page-test-detail .test{
+
+}
+page-test-detail{
+    ion-content{
+        background: #ddeaf7!important;
+    }
+
+    .reading-test{
+        position: relative;
+        height: 70px;
+        margin-top: 8px;
+        background: white;
+        border-radius: 8px;
+        border: 1px solid rgb(179, 177, 177);
+    }
+
+    .reading-test .img{
+        font-size: 40px;
+        color: #1919E9;
+        margin-top: 12px;
+        margin-left: 12px;
+    }
+
+    .reading-test p{
+        position: absolute;
+        top: 24px;
+        left: 52px;
+        color: #1919E9;
+        font-size: 20px;
+        margin: 0;
+        width: 100%;
+    }
+
+    .reading-test .is-finished{
+        font-size: 22px;
+        position: absolute;
+        top: 23px;
+        right: 8px;
+        color: #02a909;
+    }
+
+    .btn-result a{
+        float: right;
+        font-size: 20px;
+        border-bottom: 1px solid;
+        margin-top: 6px;
+        margin-right: 10px;
+        width: 32%;
+    }
+
+    .result-test .total-score {
+        width: 70%;
+        margin-left: 15%;
+        border: 1px solid #424242;
+        border-radius: 8px;
+        background: white;
+        margin-bottom: 16px;
+    }
+
+    .result-test .total-score .total{
+            text-align: center;
+        border-bottom: 1px solid #424242;
+        font-size: 20px;
+        padding-top: 8px;
+        color: #1414d6;
+    }
+
+    .result-test .total-score .listening{
+        float: left;
+        width: 50%;
+        text-align: center;
+        border-right: 1px solid #424242;
+        color: red;
+        font-size: 16px;
+        padding-top: 4px;
+    }
+
+    .result-test .total-score .reading{
+        text-align: center;
+        color: red;
+        font-size: 16px;
+        padding-top: 4px;
+    }
+
+    .list-parts .part{
+        margin-top: 4px;
+    }
+
+    .part .name-part{
+        width: 70px;
+        height: 100%;
+        float: left;
+        border: 1px solid;
+        border-radius: 4px;
+        text-align: center;
+        font-weight: bold;
+        background: wheat;
+    }
+
+    .part .list-questions{
+        width: calc(100% - 70px);
+        float: left;
+        margin-bottom: 0;
+    }
+
+    .part .list-questions .item{
+       width: 18%;
+        margin-left: 2%;
+        float: left;
+        border: 1px solid #69717d;
+        text-align: center;
+        margin-top: 20px;
+        height: 20px;
+        color: #8E8E91;
+        font-weight: bold;
+        font-size: 20px;
+        background: white;
+        border-radius: 6px;
+        position: relative;
+    }
+
+    .part .list-questions .item span{
+        position: absolute;
+        top: -14px;
+        left: 2px;
+        font-size: 14px;
+    }
+
+    .part .list-questions .item img.true{
+        position: absolute;
+        top: -8px;
+        left: 32%;
+        height: 30px;
+    }
+
+    .part .list-questions .item img.false{
+        position: absolute;
+        top: -3px;
+        left: 32%;
+        height: 24px;
+    }
+}

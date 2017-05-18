@@ -1,0 +1,140 @@
+page-practice-speak {
+	.info{
+		position: relative;
+		margin: 0;
+		font-size: 16px;
+	}
+	.info .icon-volume{
+		position: absolute;
+		right: 10px;
+		top: 0px;
+		font-size: 22px;
+		padding: 2px 11px 2px 8px;
+		color: white;
+		border: 1px solid #387ef5;
+		background: #387ef5;
+		border-radius: 50%;
+		height: 30px;
+		width: 32px;
+	}
+
+	.info span{
+		color:rgb(165, 163, 163);
+		margin-left: 10px;
+	}
+
+	.icon-recognition{
+		position:relative;
+		margin-top:80px;
+	}
+	.speak{
+		text-align: center;
+	    position: absolute;
+	    width: 100%;
+	    padding-top: 22px;
+	}
+
+	.speak img{
+		width: 60px;
+	}
+
+	.recorder-container .icon-microphone img{
+	    width: 60px;
+	    position: absolute;
+	    top: 22px;
+	    left: 46px;
+	}
+
+	.recorder-container {
+	  	width: 150px;
+	  	background-color: #e74c3c;
+	  	display: block;
+	  	border-radius: 100%;
+	  	box-shadow: 0px 0px 15px 2px #bdc3c7;
+	  	cursor: default;
+	  	transition: .3s all ease-in;
+	    position: absolute;
+    	left: calc(50% - 75px);
+	}
+	.icon-microphone {
+	 /* color: #fff;
+	  font-size: 60px;
+	  line-height: 150px;
+	  display: block;
+	  text-align: center;
+	  transition: .1s all ease-in;
+	  position: relative;
+	  height: 150px;*/
+	    color: #fff;
+	    font-size: 60px;
+	    line-height: 150px;
+	    display: block;
+	    text-align: center;
+	    transition: .1s all ease-in;
+	    position: relative;
+	    height: 150px;
+	    cursor: pointer;
+	}
+	.outer {
+	  width: 148px;
+	  height: 148px;
+	  -webkit-transform: scale(1);
+	  border-radius: 100%;
+	  position: absolute;
+	  background-color: transparent;
+	  border: 1px solid #7f8c8d;
+	  z-index: -1;
+	  transition: 1.5s all ease;
+	  -webkit-animation: woong 1.5s infinite;
+	}
+	.outer-2 {
+	  width: 150px;
+	  height: 150px;
+	  -webkit-transform: scale(1);
+	  border-radius: 100%;
+	  position: absolute;
+	  background-color: #bdc3c7;
+	  z-index: -1;
+	  transition: 1.5s all ease;
+	  -webkit-animation: woong-2 1.5s infinite;
+	  -webkit-animation-delay: 2.5s;
+	}
+	@-webkit-keyframes woong {
+	  0% {
+	    -webkit-trasform: scale(1.2);
+	  }
+	  50% {
+	    -webkit-transform: scale(1.8);
+	    opacity: 0.5;
+	  }
+	  100% {
+	    -webkit-transform: scale(2.4);
+	    opacity: 0;
+	  }
+	}
+	@-webkit-keyframes woong-2 {
+	  0% {
+	    -webkit-transform: scale(1.2);
+	    opacity: 0.6;
+	  }
+	  50% {
+	    -webkit-transform: scale(1.6);
+	    opacity: 0.5;
+	  }
+	  100% {
+	    -webkit-transform: scale(2);
+	    opacity: 0;
+	  }
+	}
+
+	ion-footer{
+        height: 52px;
+        background: white;
+        text-align: center;
+        padding-top: 4px;
+    }
+
+    ion-footer .btn-next{
+        width: 160px;
+    }
+}

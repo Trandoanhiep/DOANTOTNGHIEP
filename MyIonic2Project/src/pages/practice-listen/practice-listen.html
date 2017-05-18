@@ -1,0 +1,28 @@
+<ion-header>
+  	<ion-navbar>
+   		<ion-title>Luyện nghe</ion-title>
+  	</ion-navbar>
+</ion-header>
+
+<ion-content padding>
+	<div class="volume">
+		<ion-icon class="icon-volume" name="volume-down" (click)="playAudio(currentQuestion.correctAnswer.audio)"></ion-icon>
+	</div>
+	<div class="list-answers">
+		<ion-card class="answer" [ngClass]="listClasses[item.id]"  *ngFor="let item of currentQuestion.answerList; let i = index" 
+    (click)="selectAnswer(item)"> <!-- answer-{{ item.id }} -->
+  			<ion-card-content>
+  				<span>{{ showChar(i) }}</span> {{ item.mean }}
+  			</ion-card-content>
+		</ion-card>
+	</div>
+	<!-- <div class="next">
+		<ion-icon ios="ios-arrow-dropright-circle" md="md-arrow-dropright-circle" (click)="nextQuestion()"></ion-icon>
+	</div> -->
+</ion-content>
+
+<ion-footer>
+	<button class="btn-next" ion-button color="secondary" (click)="nextQuestion()">Next</button>
+</ion-footer>
+
+

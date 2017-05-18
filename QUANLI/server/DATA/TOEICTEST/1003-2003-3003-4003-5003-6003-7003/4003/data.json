@@ -1,0 +1,272 @@
+[
+  {
+    "idQuestion": "71",
+    "answerCorrect": "B",
+    "question": "When did Stacy Jackson leave this message?",
+    "A": "On Wednesday",
+    "B": "On Thursday",
+    "C": "On Friday",
+    "D": "On Saturday"
+  },
+  {
+    "idQuestion": "72",
+    "answerCorrect": "B",
+    "question": "At what time does the store close today?",
+    "A": "2:00 P.M",
+    "B": "5:00 P.M",
+    "C": "8:00 P.M",
+    "D": "9:00 P.M"
+  },
+  {
+    "idQuestion": "73",
+    "answerCorrect": "D",
+    "question": "What is Mr. Brown asked to do?",
+    "A": "Talk to a manager",
+    "B": "Call the library",
+    "C": "Place a special order",
+    "D": "Go to the front desk"
+  },
+  {
+    "idQuestion": "74",
+    "answerCorrect": "B",
+    "question": "What is the main purpose of this talk?",
+    "A": "To introduce a new employee",
+    "B": "To announce an upcoming inspection",
+    "C": "To report a production increase",
+    "D": "To demonstrate a revised procedure"
+  },
+  {
+    "idQuestion": "75",
+    "answerCorrect": "D",
+    "question": "Who will visit the production floor?",
+    "A": "A health department employee",
+    "B": "A company supervisor",
+    "C": "A maintenance director",
+    "D": "A fire department representative"
+  },
+  {
+    "idQuestion": "76",
+    "answerCorrect": "B",
+    "question": "What are listeners expected to do?",
+    "A": "Check the fire extinguishers",
+    "B": "Clear any blocked exits",
+    "C": "Test the fire alarms",
+    "D": "Review emergency procedures"
+  },
+  {
+    "idQuestion": "77",
+    "answerCorrect": "C",
+    "question": "What is the topic of today’s conference seminar?",
+    "A": "Designing Internet Web sites",
+    "B": "Managing a supermarket",
+    "C": "Researching the music industry",
+    "D": "Organizing meetings"
+  },
+  {
+    "idQuestion": "78",
+    "answerCorrect": "B",
+    "question": "What will the participants do in the afternoon?",
+    "A": "Tour the convention center",
+    "B": "Use the Internet",
+    "C": "Write magazine articles",
+    "D": "Attend a concert"
+  },
+  {
+    "idQuestion": "79",
+    "answerCorrect": "C",
+    "question": "Where should seminar participants go for more information?",
+    "A": "To the computer lab",
+    "B": "To the registration center",
+    "C": "To the information desk",
+    "D": "To meeting room three"
+  },
+  {
+    "idQuestion": "80",
+    "answerCorrect": "B",
+    "question": "What is the main purpose of the talk?",
+    "A": "To describe a building",
+    "B": "To list planned events",
+    "C": "To name new employees",
+    "D": "To introduce a supervisor"
+  },
+  {
+    "idQuestion": "81",
+    "answerCorrect": "A",
+    "question": "What is included in each person’s folder?",
+    "A": "A map",
+    "B": "A lunch ticket",
+    "C": "An identification badge",
+    "D": "A parking pass"
+  },
+  {
+    "idQuestion": "82",
+    "answerCorrect": "C",
+    "question": "When will the employees hand in the forms?",
+    "A": "When they receive their badges",
+    "B": "On arrival at the facility",
+    "C": "After lunch",
+    "D": "During the tour"
+  },
+  {
+    "idQuestion": "83",
+    "answerCorrect": "D",
+    "question": "When is the new flight scheduled to arrive at its destination?",
+    "A": "10:00 A.M",
+    "B": "1:00 P.M",
+    "C": "2:00 P.M",
+    "D": "7:00 P.M"
+  },
+  {
+    "idQuestion": "84",
+    "answerCorrect": "C",
+    "question": "What is National Airlines offering?",
+    "A": "A refund for tickets",
+    "B": "A free trip to Seattle",
+    "C": "A discount on a future flight",
+    "D": "An earlier flight to Philadelphia"
+  },
+  {
+    "idQuestion": "85",
+    "answerCorrect": "A",
+    "question": "Where will the new flight depart from?",
+    "A": "Gate 3A",
+    "B": "Gate 7A",
+    "C": "Gate 10A",
+    "D": "Gate 12A"
+  },
+  {
+    "idQuestion": "86",
+    "answerCorrect": "D",
+    "question": "Where is the event being held?",
+    "A": " At a theater",
+    "B": "At a science laboratory",
+    "C": "At a hotel",
+    "D": "At a museum"
+  },
+  {
+    "idQuestion": "87",
+    "answerCorrect": "A",
+    "question": "Who is James Lawry?",
+    "A": "An architect",
+    "B": "A scientist",
+    "C": "A painter",
+    "D": "A fashion designer"
+  },
+  {
+    "idQuestion": "88",
+    "answerCorrect": "B",
+    "question": "What will happen next month?",
+    "A": "Some renovations will be undertaken",
+    "B": "A special exhibit will open",
+    "C": "The collection will move to a new location",
+    "D": "A new director will be hired"
+  },
+  {
+    "idQuestion": "89",
+    "answerCorrect": "A",
+    "question": "Where would the announcement most likely be heard?",
+    "A": "At a stadium",
+    "B": "At a sports equipment store",
+    "C": "At a movie theater",
+    "D": "At a conference center"
+  },
+  {
+    "idQuestion": "90",
+    "answerCorrect": "B",
+    "question": "What will be given away tomorrow night?",
+    "A": "An award for an athlete",
+    "B": "Shirts for audience members",
+    "C": "Tickets to a game",
+    "D": "Maps of the area"
+  },
+  {
+    "idQuestion": "91",
+    "answerCorrect": "D",
+    "question": "Who paid for the item being given away?",
+    "A": "An office supply store",
+    "B": "An athletic team",
+    "C": "A stadium manager",
+    "D": "A sporting goods store"
+  },
+  {
+    "idQuestion": "92",
+    "answerCorrect": "C",
+    "question": "What were introduced at some of the stores?",
+    "A": "Air-conditioning systems",
+    "B": "Furniture departments",
+    "C": "Cafés",
+    "D": "Supermarket sections"
+  },
+  {
+    "idQuestion": "93",
+    "answerCorrect": "A",
+    "question": "When did the speaker receive the sales figures?",
+    "A": "On Monday",
+    "B": "On Tuesday",
+    "C": "On Thursday",
+    "D": "On Friday"
+  },
+  {
+    "idQuestion": "94",
+    "answerCorrect": "D",
+    "question": "In which city have sales remained the same?",
+    "A": "New York",
+    "B": "London",
+    "C": "Tokyo",
+    "D": "Paris"
+  },
+  {
+    "idQuestion": "95",
+    "answerCorrect": "B",
+    "question": "What is the purpose of the speech?",
+    "A": "To announce a competition",
+    "B": "To accept an award",
+    "C": "To introduce a speaker",
+    "D": "To promote a book"
+  },
+  {
+    "idQuestion": "96",
+    "answerCorrect": "C",
+    "question": "What is true about the speaker?",
+    "A": "She is a career advisor",
+    "B": "She started writing when she was ten",
+    "C": "She wrote for a university newspaper",
+    "D": "She works at a publishing company"
+  },
+  {
+    "idQuestion": "97",
+    "answerCorrect": "D",
+    "question": "Who is Mr. Oberly?",
+    "A": "A marketing manager",
+    "B": "A writer",
+    "C": "A book editor",
+    "D": "An agent"
+  },
+  {
+    "idQuestion": "98",
+    "answerCorrect": "C",
+    "question": "Who is Alan Lam?",
+    "A": "A company executive",
+    "B": "A factory worker",
+    "C": "A radio broadcaster",
+    "D": "An economist"
+  },
+  {
+    "idQuestion": "99",
+    "answerCorrect": "A",
+    "question": "Who responded to the survey?",
+    "A": "Manufacturing executives",
+    "B": "Factory line workers",
+    "C": "Product designers",
+    "D": "Human resources managers"
+  },
+  {
+    "idQuestion": "100",
+    "answerCorrect": "D",
+    "question": "How did the survey responses differ from those of previous years?",
+    "A": "More new product plans were reported",
+    "B": "Fewer businesses responded",
+    "C": "Employee experience was not studied",
+    "D": "Cost was considered less important"
+  }
+]

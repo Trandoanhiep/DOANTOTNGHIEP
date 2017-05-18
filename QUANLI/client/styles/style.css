@@ -1,0 +1,46 @@
+.navbar { 
+	border-radius:0; 
+}
+
+#home .title{
+	margin: 24px;
+}
+
+#home .course{
+	height: 154px;
+    width: 70%;
+    border-bottom: 1px solid #bbb9b9;
+    margin-top: 12px;
+}
+#home .img{
+	float: left;
+	height: 140px;
+    margin-right: 20px;
+}
+#home .info{
+	float: left;
+	width: 60%;
+}
+#home .info .name{
+	color: #d2832e;
+    font-size: 22px;
+}
+#home .info .author{
+	color: rgba(73, 73, 193, 0.87);
+    cursor: pointer;
+}
+#home .info .description{
+	
+}
+#home .delete-edit a{
+	margin-left: 8px;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+#create .form-create, #create-toeic .form-create{
+	width: 50%;
+}
+#create img{
+	margin: 10px 0px;
+}

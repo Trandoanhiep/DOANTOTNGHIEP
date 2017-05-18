@@ -1,0 +1,59 @@
+<div ng-controller="CreateController as vm" id="create">
+    <h3 class="title">{{ vm.title }}</h3> 
+    <div class="form-create">
+        <table>
+            <tr>
+                <div class="form-group">
+                    <label for="usr">Mã khóa học:</label>
+                    <input type="text" class="form-control" ng-model="vm.course.id"
+                     ng-class=" vm.courseId == '' ? ' ' : 'disable-input' ">
+                </div>
+
+            </tr>
+            <tr>
+                <div class="form-group">
+                    <label for="pwd">Tên khóa học:</label>
+                    <input type="text" class="form-control" ng-model="vm.course.name">
+                </div>
+            </tr>
+            <tr>
+                <div class="form-group">
+                    <label for="pwd">Ảnh minh họa (Hãy chọn ảnh .jpg):</label>
+                    <input  type="file" ngf-select ng-model="vm.Imgfile" name="file" />
+                    <img ng-if="vm.courseId != '' " style="width:100px" ng-src="http://localhost:3000/data/{{ vm.course.id }}.jpg">
+                </div>
+            </tr>
+            <tr>
+                <div class="form-group">
+                    <label for="pwd">Số bài học : </label>
+                    <input type="text" class="form-control" ng-model="vm.course.subject">
+                </div>
+            </tr>
+            <tr>
+                <div class="form-group">
+                    <label for="pwd">Số từ </label>
+                    <input type="text" class="form-control" ng-model="vm.course.word" >
+                </div>
+            </tr>
+            <tr>
+                <div class="form-group" ng-class=" vm.courseId == '' ? ' ' : 'disable-input' ">
+                    <label for="pwd">Dữ liệu của khóa học:</label>
+                    <input  type="file" ngf-select ng-model="vm.Zipfile"  />
+                </div>
+            </tr>
+
+            
+
+            <tr>
+                <button type="button" class="btn btn-primary" ng-click="vm.createOrEdit()">{{ vm.buttonName }}</button>
+            </tr>
+        </table>
+    </div>  
+
+</div>
+
+<style type="text/css">
+    .disable-input{
+        pointer-events: none;
+    }
+</style>

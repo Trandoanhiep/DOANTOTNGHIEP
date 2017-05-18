@@ -1,0 +1,42 @@
+[
+  {
+    "idQuestion": "1",
+    "answerCorrect": "C"
+  },
+  {
+    "idQuestion": "2",
+    "answerCorrect": "C"
+  },
+  {
+    "idQuestion": "3",
+    "answerCorrect": "B"
+  },
+  {
+    "idQuestion": "4",
+    "answerCorrect": "A"
+  },
+  {
+    "idQuestion": "5",
+    "answerCorrect": "D"
+  },
+  {
+    "idQuestion": "6",
+    "answerCorrect": "B"
+  },
+  {
+    "idQuestion": "7",
+    "answerCorrect": "A"
+  },
+  {
+    "idQuestion": "8",
+    "answerCorrect": "B"
+  },
+  {
+    "idQuestion": "9",
+    "answerCorrect": "C"
+  },
+  {
+    "idQuestion": "10",
+    "answerCorrect": "D"
+  }
+]

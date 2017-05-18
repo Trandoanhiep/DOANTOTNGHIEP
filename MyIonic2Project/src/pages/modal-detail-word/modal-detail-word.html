@@ -1,0 +1,21 @@
+<ion-content (click)="dismiss()">
+  	<div class="detail-word" (click)="$event.stopPropagation();">
+  		<div class="header-word">{{ word.word }}</div>
+  		<div class="content-word">
+  			
+  			<p class="word">{{ word.word }}</p>
+  			<p class="phonetic">{{ word.phonetic }}</p>
+  			<p class="mean">{{ word.mean }}</p>
+  			<!-- <p class="input-example" *ngIf=" word.example != '' && word.example.length > 0 ">
+  				Ví dụ :
+  				<i>{{ word.example }}</i>
+  				<i>( {{ word.example_mean }} )</i>
+  			</p> -->
+  			<ion-icon class="icon-volume" name="volume-down" (click)="playAudio(word.audio)"></ion-icon>
+
+  			<img class="img" [src]="word.image">
+
+  		</div>
+  	</div>
+  	<!-- <div class="btn-add-example" (click)="showAddExamplePopup($event)">+</div> -->
+</ion-content>

@@ -1,0 +1,56 @@
+<ion-header>
+  	<ion-navbar>
+    	<ion-title>Luyện viết</ion-title>
+    	<div class="selection" (click)="presentPopover($event)">
+    		<p class="text-more">Gợi ý : {{ isSuggest }}</p>
+    		<ion-icon ios="ios-more" class="more" md="md-more"></ion-icon>
+    	</div>
+  	</ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+
+	<div class="suggest-question" *ngIf="isSuggest == 'Yes' ">
+		<div class="word">
+			<button ion-button color="primary" *ngFor="let item of myListChar; let i = index" 
+			class="answer" (click)="deleteMultiChar(i)">{{ item }}</button>
+		</div>
+		<div class="delete-volume-icon">
+			<ion-icon class="icon-info" name="information" (click)="showInfo()"></ion-icon>
+			<ion-icon class="icon-volume" name="volume-down" (click)="playAudio(currentQuestion.correctAnswer.audio)"></ion-icon>
+			<ion-icon class="icon-delete" name="backspace" (click)="delete()"></ion-icon>
+		</div>
+		<div class="mean">{{ currentQuestion.correctAnswer.mean }}</div>
+		<div class="quesstion">
+			<button ion-button color="primary" *ngFor="let item of currentQuestion.answerList; let i = index" 
+			[ngClass]=" 'answer-' + (i) " (click)="select(item ,i)">{{ item }}</button>
+		</div>
+	</div>
+
+	<div class="no-suggest-question" *ngIf="isSuggest == 'No' ">
+		<div class="word">
+			<p>{{ inputAnswer }}</p>
+		</div>
+		<div class="mean">
+		 	<p>{{ currentQuestion.correctAnswer.mean }}</p>
+			<ion-icon class="icon-info" name="information" (click)="showInfo()"></ion-icon>
+		</div>
+		<div class="quesstion">
+			<ion-list>
+			  	<ion-item style="background: #ddeaf7 !important;">
+				    <ion-label floating>Nhập đán án</ion-label>
+				    <ion-input type="text" [(ngModel)]="inputAnswer"></ion-input>
+			  	</ion-item>
+
+			  	<button class="btn-check" (click)="checkAnswer(null)" ion-button color="secondary" outline>Kiểm tra</button>
+			</ion-list>
+		</div>
+	</div>
+
+</ion-content>
+
+<ion-footer>
+	<button class="btn-next" ion-button color="secondary" (click)="nextQuestion()">Next</button>
+</ion-footer>
+

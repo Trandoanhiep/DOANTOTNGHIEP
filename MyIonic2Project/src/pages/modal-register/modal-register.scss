@@ -1,0 +1,22 @@
+modal-register {
+	ion-content{
+	 	background: white;
+	}
+
+	.container{
+		width: calc(100% - 16px);
+		height: calc(100% - 20px);
+		position: absolute;
+		top: 10px;
+	}
+
+	.btn-login,.btn-login-fb, .btn-register{
+		margin-left: 16px;
+		margin-top: 20px;
+		width: calc(100% - 16px);
+	}
+
+	.btn-login-fb img{
+		height: 36px;
+	}
+}

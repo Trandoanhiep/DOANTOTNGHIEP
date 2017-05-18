@@ -1,0 +1,36 @@
+<ion-header>
+    <ion-navbar>
+        <button ion-button menuToggle>
+            <ion-icon name="menu"></ion-icon>
+        </button>
+        <ion-title>{{ course.name }}</ion-title>
+    </ion-navbar>
+</ion-header>
+
+
+<ion-content>
+  <div class="current-course" padding>
+      <img class="img" src="{{ course.image }}">
+      <p class="course-name">{{ course.name }}</p>
+      <div>
+         <p class="total-lesson"><span>L</span>{{ course.num_subject }} bài</p>
+         <p class="total-word"><span>W</span>{{ course.num_word }} từ</p>
+      </div>
+      <img class="icon-practice" src="./assets/images/practice-icon.png" (click)="goToPractice()">
+
+  </div>
+  <div class="list-lesson">
+      <ion-list>
+          <div class="item" *ngFor ="let lesson of listLessons" (click)="selectLesson(lesson)">
+              <div class="lesson-image">
+                  <img [src]="lesson.image">
+              </div>
+              <div class="lesson-name">
+                  <p class="name">{{ lesson.name }}</p>
+              </div>
+          </div>
+      </ion-list>
+  </div>
+
+
+</ion-content>

@@ -1,0 +1,74 @@
+page-practice-listen {
+    .list-answers{
+        height: 200px;
+    }
+
+    .volume{
+        height: 25%;
+        text-align: center;
+        position: relative;
+    }
+
+    .volume .icon-volume{
+        position: absolute;
+        right: calc(50% - 35px);
+        top: 20%;
+        font-size: 50px;
+        padding: 4px 10px 2px 8px;
+        color: white;
+        border: 1px solid #387ef5;
+        background: #387ef5;
+        border-radius: 50%;
+        height: 70px;
+        width: 70px;
+    }
+
+    .answer span{
+        margin-right: 6px;
+        font-weight: bold;
+    }
+
+    .checked-correct{
+        background: green;
+        color: white;
+    }
+
+    .checked-wrong{
+        background: red;
+        color: white;
+    }
+
+    .checked-correct span{
+        color : white;
+    }
+    
+    .checked-wrong span{
+        color : white;
+    }
+
+    .checked ion-card-content{
+        padding:16px;
+    }
+
+    .next{
+        margin-top: 10%;
+        text-align: center;
+    }
+
+    .next ion-icon{
+        font-size: 40px;
+        color: #387ef5;
+        padding: 10px;
+    }
+
+    ion-footer{
+        height: 52px;
+        background: white;
+        text-align: center;
+        padding-top: 4px;
+    }
+
+    ion-footer .btn-next{
+        width: 160px;
+    }
+}

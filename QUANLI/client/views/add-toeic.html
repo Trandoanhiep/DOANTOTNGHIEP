@@ -1,0 +1,36 @@
+<div ng-controller="CreateToecicController as vm" id="create-toeic">
+    <h3 class="title">Thêm dữ liệu cho đề thi toeic</h3> 
+    <div class="form-create">
+        <table>
+            
+            <tr>
+                <div class="form-group">
+                    <label for="usr">Chọn part :</label>
+                    <select class="form-control" ng-model="vm.selectPart"  ng-change="vm.select(vm.selectPart)">
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>5</option>
+                        <option>6</option>
+                        <option>7</option>
+                    </select>
+                </div>
+
+            </tr>
+            <tr>
+                <div class="form-group" >
+                    <label for="pwd">Dữ liệu cho đề thi toeic:</label>
+                    <input  type="file" ngf-select ng-model="vm.Zipfile"  />
+                </div>
+            </tr>
+
+            
+
+            <tr>
+                <button type="button" class="btn btn-primary" ng-click="vm.upload()">Submit</button>
+            </tr>
+        </table>
+    </div>  
+
+</div>

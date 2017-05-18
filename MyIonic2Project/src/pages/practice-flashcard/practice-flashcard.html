@@ -1,0 +1,35 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Flashcard</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+	<ion-slides>
+  		<ion-slide *ngFor="let flashcard of listFlashcards">
+    		
+            <div class="flip" (click)="flip(flashcard.id)"> 
+                <div class="card card-{{ flashcard.id }}"> 
+                    <div class="face front">
+                        <p class="word">{{ flashcard.front.word }}</p>
+                        <ion-icon class="icon-volume" name="volume-down" (click)="playAudio($event,flashcard.audio)"></ion-icon>
+                    </div> 
+                    <div class="face back">
+                        <!-- <p class="word">{{ flashcard.back.word }}</p> -->
+                        <img [src]="flashcard.back.image" style="width: 60%;">
+                        <p class="phonetic">{{ flashcard.back.phonetic }}</p>
+                        <p class="mean">{{ flashcard.back.mean }}</p>
+                        <ion-icon class="icon-volume" name="volume-down" (click)="playAudio($event,flashcard.audio)"></ion-icon>
+                    </div> 
+                </div> 
+            </div>
+
+  		</ion-slide>
+	</ion-slides>
+</ion-content>
+<style type="text/css">
+
+</style>

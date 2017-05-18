@@ -1,0 +1,87 @@
+<html>
+<head>
+	<title>Home</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="styles/style.css">
+
+    <script type="text/javascript" src="node_modules/angular/angular.min.js"></script>
+    <script type="text/javascript" src="node_modules/angular/angular-ui-router.min.js"></script>
+    <script type="text/javascript" src="node_modules/ng-file-upload/dist/ng-file-upload.min.js"></script>
+    <script type="text/javascript" src="node_modules/ng-file-upload/dist/ng-file-upload-shim.min.js"></script>
+
+    <script type="text/javascript" src="main.js"></script>
+    <script src="services/MyService.js"></script>
+    <script src="services/SessionService.js"></script>
+
+    <script src="controllers/HomeController.js"></script>
+    <script src="controllers/LoginController.js"></script>
+    <script src="controllers/CreateCourseController.js"></script>
+    <script src="controllers/CreateToeicController.js"></script>
+
+    <style type="text/css">
+        .navbar-nav>li {
+            cursor: pointer;
+        }
+    </style>
+
+</head>
+<body ng-app="myApp">
+	<nav class="navbar navbar-inverse" role="navigation">
+        <div class="navbar-header">
+            <a class="navbar-brand" ui-sref="home">QUẢN LÍ</a>
+        </div>
+        <ul class="nav navbar-nav">
+            <li><a ui-sref="create-toeic" ng-if="user.state == true">Thêm Toeic Part</a></li>
+            <li><a ui-sref="create-edit" ng-if="user.state == true">Thêm Khóa học</a></li>
+        </ul>
+        <ul class="nav navbar-nav" style="float: right;">
+            <li><a ui-sref="login" ng-if="user.state == false" data-toggle="modal" data-target="#myModal" 
+            data-backdrop="static" data-keyboard="false">Đăng nhập</a></li>
+            <li><a  ng-if="user.state == true">{{ user.username }}</a></li>
+            <li><a  ng-if="user.state == true" ng-click="logout()" 
+            data-backdrop="static" data-keyboard="false">Đăng xuất</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <div ui-view></div>
+    </div>
+
+    <div id="myModal" class="modal fade" role="dialog" ng-controller="LoginController as vm" >
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" ui-sref="home" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title" style="text-align: center">ĐĂNG NHẬP</h4>
+                </div>
+                <div class="modal-body">
+                    <table>
+                        <tr>
+                            <div class="form-group">
+                                <label for="usr">Email :</label>
+                                <input type="text" class="form-control" ng-model="vm.email">
+                            </div>
+
+                        </tr>
+                        <tr>
+                            <div class="form-group">
+                                <label for="pwd">Password:</label>
+                                <input type="password" class="form-control" ng-model="vm.password">
+                            </div>
+                        </tr>
+                    </table>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" ng-click="vm.login()">Đăng nhập</button>
+                    <button type="button" ui-sref="home" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+	
+</html>

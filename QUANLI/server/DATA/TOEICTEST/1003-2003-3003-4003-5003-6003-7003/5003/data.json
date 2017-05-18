@@ -1,0 +1,362 @@
+[
+  {
+    "idQuestion": "101",
+    "answerCorrect": "C",
+    "question": "101. Please make a note ___ your customer and receipt numbers in case you need to contact us about your order.",
+    "A": "for",
+    "B": "from",
+    "C": "of",
+    "D": "off"
+  },
+  {
+    "idQuestion": "102",
+    "answerCorrect": "A",
+    "question": "102.  If the person you are trying to reach does not answer the telephone, please dial “0” to speak to the ___.",
+    "A": "operator",
+    "B": "operating",
+    "C": "operate",
+    "D": "operation"
+  },
+  {
+    "idQuestion": "103",
+    "answerCorrect": "D",
+    "question": "103. Because the boardroom is being painted, the meeting this afternoon will ___ in the conference room on the fourth floor.",
+    "A": "have held",
+    "B": "be holding",
+    "C": "hold",
+    "D": "be held"
+  },
+  {
+    "idQuestion": "104",
+    "answerCorrect": "B",
+    "question": "104. The monthly rent includes all utilities, with the ___ of telephone and cable charges.",
+    "A": "excess",
+    "B": "exception",
+    "C": "excuse",
+    "D": "exchange"
+  },
+  {
+    "idQuestion": "105",
+    "answerCorrect": "D",
+    "question": "105. An outside auditor will visit the factory next week to determine whether or not ___ air-quality standards are being observed.",
+    "A": "accept",
+    "B": "accepting",
+    "C": "acceptance",
+    "D": "acceptable"
+  },
+  {
+    "idQuestion": "106",
+    "answerCorrect": "C",
+    "question": "106. Effective publicity helps a company keep a high profile by reminding the public of ___ most successful or innovative products.",
+    "A": "they",
+    "B": "them",
+    "C": "its",
+    "D": "it"
+  },
+  {
+    "idQuestion": "107",
+    "answerCorrect": "C",
+    "question": "107. Payment of monthly parking vouchers can be made either by personal check ___ by automatic withdrawal from a bank account.",
+    "A": "but",
+    "B": "and",
+    "C": "or",
+    "D": "if"
+  },
+  {
+    "idQuestion": "108",
+    "answerCorrect": "D",
+    "question": "108. Many problems with locks ___ by a simple repair or adjustment.",
+    "A": "solved",
+    "B": "could solve",
+    "C": "can solve",
+    "D": "can be solved"
+  },
+  {
+    "idQuestion": "109",
+    "answerCorrect": "A",
+    "question": "109. Seats will be assigned on a first-come, first-served basis, so it would be best to arrive no  ___ than 11:00 A. M.",
+    "A": "later",
+    "B": "latest",
+    "C": "lateness",
+    "D": "late"
+  },
+  {
+    "idQuestion": "110",
+    "answerCorrect": "B",
+    "question": "110. Stewart Packaging Company plans to hire ___ workers because of the increased production quota this month.",
+    "A": "inclusive",
+    "B": "additional",
+    "C": "multiplied",
+    "D": "serviceable"
+  },
+  {
+    "idQuestion": "111",
+    "answerCorrect": "D",
+    "question": "111. The company’s establishment of an on-site child care center is intended ___  encourage new parents to return to work.",
+    "A": "which",
+    "B": "that",
+    "C": "for",
+    "D": "to"
+  },
+  {
+    "idQuestion": "112",
+    "answerCorrect": "A",
+    "question": "112. By striving to be neat, well dressed, and cheerful, our representatives can make a good first ___ on our clients.",
+    "A": "impression",
+    "B": "impressive",
+    "C": "impressed",
+    "D": "impress"
+  },
+  {
+    "idQuestion": "113",
+    "answerCorrect": "D",
+    "question": "113. All receipts for travel expenses should be ___ to Mr. Franconi for processing before the end of the month.",
+    "A": "substituted",
+    "B": "subtracted",
+    "C": "subjected",
+    "D": "submitted"
+  },
+  {
+    "idQuestion": "114",
+    "answerCorrect": "D",
+    "question": "114. Whichever of the five new editors seems the ___ experienced with layout will work with Mr. Abdellah on the special edition of the magazine.",
+    "A": "highly",
+    "B": "heavily",
+    "C": "much",
+    "D": "most"
+  },
+  {
+    "idQuestion": "115",
+    "answerCorrect": "A",
+    "question": "115. Because our direct marketing promotion for magazine subscriptions yielded such positive results last year, we plan to do it ___ this year.",
+    "A": "again",
+    "B": "ever",
+    "C": "very",
+    "D": "truly"
+  },
+  {
+    "idQuestion": "116",
+    "answerCorrect": "D",
+    "question": "116. A fine of $200 will be imposed upon any drivers ___ park illegally downtown during the holiday parade.",
+    "A": "which",
+    "B": "whose",
+    "C": "whom",
+    "D": "who"
+  },
+  {
+    "idQuestion": "117",
+    "answerCorrect": "C",
+    "question": "117. ___ the new computers are arriving next week, no plans have been made to dispose of the old ones.",
+    "A": "Despite",
+    "B": "When",
+    "C": "Although",
+    "D": "Whereby"
+  },
+  {
+    "idQuestion": "118",
+    "answerCorrect": "A",
+    "question": "118. In Mr. Brothet’s performance review, the department supervisor wrote that he worked extremely ___ and always finished his assignments on time.",
+    "A": "diligently",
+    "B": "diligence",
+    "C": "diligent",
+    "D": "most diligent"
+  },
+  {
+    "idQuestion": "119",
+    "answerCorrect": "B",
+    "question": "119. The leadership conference will be held in Lanesville, which is about 50 miles from downtown Seattle and easily accessible ___ car or train.",
+    "A": "in",
+    "B": "by",
+    "C": "on",
+    "D": "at"
+  },
+  {
+    "idQuestion": "120",
+    "answerCorrect": "C",
+    "question": "120. ___ to the fitness center is free for all employees and their family members.",
+    "A": "Preparation",
+    "B": "Insertion",
+    "C": "Admission",
+    "D": "Imposition"
+  },
+  {
+    "idQuestion": "121",
+    "answerCorrect": "B",
+    "question": "121. McLellan Associates, the ___ of the two law firms, is presently advertising several job openings for paralegals.",
+    "A": "largeness",
+    "B": "larger",
+    "C": "largely",
+    "D": "large"
+  },
+  {
+    "idQuestion": "122",
+    "answerCorrect": "C",
+    "question": "122. Rising gas prices are cutting into our profits, so we ___ to look for alternative delivery methods.",
+    "A": "must",
+    "B": "should",
+    "C": "need",
+    "D": "could"
+  },
+  {
+    "idQuestion": "123",
+    "answerCorrect": "B",
+    "question": "123. Due to the ___ rainfall this spring, water levels in local lakes and rivers are much higher than normal.",
+    "A": "accidental",
+    "B": "abundant",
+    "C": "common",
+    "D": "occasional"
+  },
+  {
+    "idQuestion": "124",
+    "answerCorrect": "D",
+    "question": "124. The Eisenweg Foundation will soon ___ its funding of external scientific research into several new domains, including genetics and endangered languages.",
+    "A": "exalt",
+    "B": "exclaim",
+    "C": "expel",
+    "D": "expand"
+  },
+  {
+    "idQuestion": "125",
+    "answerCorrect": "A",
+    "question": "125. The vice chancellor confirmed that the individual points should be presented in ___ of relative priority.",
+    "A": "order",
+    "B": "orderly",
+    "C": "ordering",
+    "D": "ordered"
+  },
+  {
+    "idQuestion": "126",
+    "answerCorrect": "B",
+    "question": "126. Working so many hours of overtime to meet the deadline has left the design staff feeling ___.",
+    "A": "exhaust",
+    "B": "exhausted",
+    "C": "exhausting",
+    "D": "exhaustive"
+  },
+  {
+    "idQuestion": "127",
+    "answerCorrect": "D",
+    "question": "127. Winthrop is a dynamic, determined, and articulate person who will succeed in sales ___ he has limited experience in this area of the business.",
+    "A": "already",
+    "B": "perhaps",
+    "C": "as far as",
+    "D": "even though"
+  },
+  {
+    "idQuestion": "128",
+    "answerCorrect": "A",
+    "question": "128. Running a successful art gallery takes more than just a love of art; it also requires a certain business ___ .",
+    "A": "skill",
+    "B": "creation",
+    "C": "progress",
+    "D": "admiration"
+  },
+  {
+    "idQuestion": "129",
+    "answerCorrect": "A",
+    "question": "129. Manager Tony Lopez is in charge of unloading the merchandise ___ the supply trucks arrive at the supermarket.",
+    "A": "when",
+    "B": "hardly",
+    "C": "just",
+    "D": "soon"
+  },
+  {
+    "idQuestion": "130",
+    "answerCorrect": "D",
+    "question": "130. Jorge was hired as an assistant manager five months ago, and ___ is now in line for a promotion.",
+    "A": "himself",
+    "B": "him",
+    "C": "his",
+    "D": "he"
+  },
+  {
+    "idQuestion": "131",
+    "answerCorrect": "B",
+    "question": "131. Formal business attire is required in the office, while more ___ dress is allowed in the workshop.",
+    "A": "actual",
+    "B": "casual",
+    "C": "commercial",
+    "D": "official"
+  },
+  {
+    "idQuestion": "132",
+    "answerCorrect": "C",
+    "question": "132. Ever since Mr. Derrick joined the staff, Mr. Zapata and Ms. Coleman have ___ the marketing team for its excellent results.",
+    "A": "to be praised",
+    "B": "praise",
+    "C": "been praising",
+    "D": "been praised"
+  },
+  {
+    "idQuestion": "133",
+    "answerCorrect": "C",
+    "question": "133. Kline Biochemlcals Is seeking to replace a team of lab technicians with one experienced researcher who is able to handle high-level research projects ___.",
+    "A": "absently",
+    "B": "inordinately",
+    "C": "independently",
+    "D": "elusively"
+  },
+  {
+    "idQuestion": "134",
+    "answerCorrect": "B",
+    "question": "134. ___ severe winter weather, affected bus routes may be either redirected or temporarily suspended until the roads are cleared.",
+    "A": "According to",
+    "B": "In the event of",
+    "C": "Of the following",
+    "D": "Out of support for"
+  },
+  {
+    "idQuestion": "135",
+    "answerCorrect": "A",
+    "question": "135. Employees should feel free to ___ the on-site physician as often as needed.",
+    "A": "consult",
+    "B": "convert",
+    "C": "compare",
+    "D": "convince"
+  },
+  {
+    "idQuestion": "136",
+    "answerCorrect": "A",
+    "question": "136. Choosing ___ two very qualified  candidates was not easy, but the board has asked Mr. Diego to be the international school’s next director.",
+    "A": "between",
+    "B": "within",
+    "C": "about",
+    "D": "along"
+  },
+  {
+    "idQuestion": "137",
+    "answerCorrect": "C",
+    "question": "137. Mr. Lee takes his job ___- than his predecessor did.",
+    "A": "serious",
+    "B": "seriously",
+    "C": "more seriously",
+    "D": "most seriously"
+  },
+  {
+    "idQuestion": "138",
+    "answerCorrect": "B",
+    "question": "138. The conference organizers were able to remedy the ___ logistical problems quite efficiently, and guests were impressed by the creative solutions they found.",
+    "A": "vary",
+    "B": "various",
+    "C": "variety",
+    "D": "variance"
+  },
+  {
+    "idQuestion": "139",
+    "answerCorrect": "A",
+    "question": "139. Johnson handled the dispute ___ by holding private discussions in her office.",
+    "A": "discreetly",
+    "B": "remotely",
+    "C": "excessively",
+    "D": "tightly"
+  },
+  {
+    "idQuestion": "140",
+    "answerCorrect": "C",
+    "question": "140. Mobile phones have become ___ prevalent that telecommunications companies are establishing service in areas previously thought too remote.",
+    "A": "only",
+    "B": "such",
+    "C": "so",
+    "D": "still"
+  }
+]

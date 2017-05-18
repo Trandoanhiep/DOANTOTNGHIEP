@@ -1,0 +1,117 @@
+page-forum {
+    .post-status{
+        margin-bottom: 10px;
+    }
+
+    .post-status .input-text{
+        position: relative;
+    } 
+
+    .post-status .input-text .img{
+        height: 80px;
+    }
+
+    .post-status .input-text .title-post{
+        position: absolute;
+        top: 1px;
+        left: 90px;
+        width: calc(100% - 90px);
+        height: 28px;
+        border: 0px;
+        border-bottom: 1px solid rgb(189, 188, 188);
+    }
+
+    .post-status .input-text .content-post{
+        position: absolute;
+        top: 34px;
+        left: 90px;
+        width: calc(100% - 90px);
+        height: 47px;
+        border: 0px;
+        border-bottom: 1px solid rgb(189, 188, 188);
+    }
+
+    .post-status .btn-post{
+        text-align: right;
+        background: #f4f4f4;
+        border-bottom: 1px solid #bdbdbd;
+        padding: 6px 0px;
+    }
+
+    .post-status .btn-post button{
+        height: 28px;
+        line-height: 1px;
+    }
+
+    .list-posts .item{
+        height: 86px;
+        margin-top: 12px;
+        border-bottom: 1px solid rgb(235, 235, 235);
+    }
+
+    .list-posts .item .total-reply{
+        width: 15%;
+        float: left;
+        border-right: 3px solid red;
+        color: #3474e1;
+    }
+
+    .list-posts .item .info{
+        width: 100%;
+        float: left;
+        position: relative;
+    }
+
+    .info .img{
+        height: 30px;
+        border: 1px solid #424242;
+        border-radius: 50%;
+        position: absolute;
+        left: 6px;
+    }
+
+    .info .avata{
+        height: 40px;
+        width:40px;
+        border-radius: 50%;
+        position: absolute;
+        left: 6px;
+        background: rgb(224, 223, 223);
+        text-align: center;
+        padding-top: 6px;
+        font-size: 24px;
+    }
+
+    .info .username{
+        position: absolute;
+        top: 4px;
+        left: 50px;
+        color: #3474e1;
+        font-weight: bold;
+        width: calc(100% - 50px);
+    }
+
+    .info .time{
+        position: absolute;
+        top: 22px;
+        left: 50px;
+        color: #69717d;
+        font-size: 12px;
+        width: calc(100% - 50px);
+    }
+
+    .info .title-post{
+        margin: 0;
+        margin-top: 46px;
+        margin-left: 10px;
+        font-weight: bold;
+    }
+
+    .btn-view-more{
+        text-align: center;
+    }
+
+    .btn-view-more a{
+        padding: 4px 8px;
+    }
+}

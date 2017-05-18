@@ -1,0 +1,509 @@
+[
+  {
+    "paragraph": "<b><p align =\"center\"> SURFACE SHIPPING CHARGES</p></b><table align =\"center\"><tr><td align =\"center\"> <u><u>Order amount</u></u></td><td align =\"center\"> <u><u> US Surface Rate</u> </u> </td><td align =\"center\"> <u><u> Canada Surface Rate</u></u> </td></tr><tr><td> 0-$25.00</td><td> $3.60</td><td> $5.85</td></tr><tr><td> $25.01-$50.00</td><td> $4.65 </td><td> $6.85 </td></tr><tr><td> $50.01-$100</td><td> $5.35 </td><td> $7.85 </td></tr><tr><td> Over $100</td><td> $6.60 </td><td> $8.85 </td></tr></table><br>(For orders over $500, please contact one of our shipping agents for a price including insurance.) <br>&nbsp;&nbsp;   • Delivery generally takes 5-10 days<br>&nbsp;&nbsp;   •   Please contact us for international rates<br>&nbsp;&nbsp;   • Express Service also available:<br>2 to 3 day shipping: add $3 to surface charge<br>Overnight carrier: add $13 to surface charge",
+    "listquestion": [
+      {
+        "answerCorrect": "C",
+        "C": "A mail order catalog",
+        "B": "A newspaper",
+        "A": "A telephone directory",
+        "D": "An instruction manual",
+        "question": "Where might you expect to find this list of shipping charges?",
+        "idQuestion": 153
+      },
+      {
+        "answerCorrect": "C",
+        "C": "Delivery time and price",
+        "B": "Weight and price",
+        "A": "Weight and delivery time",
+        "D": "Weight only",
+        "question": "What are these rates based on?",
+        "idQuestion": 154
+      },
+      {
+        "answerCorrect": "C",
+        "C": "$18.35",
+        "B": "$5.35",
+        "A": "$8.35",
+        "D": "$10.85",
+        "question": "By overnight carrier within the US, how much would it cost to ship a pair of shoes that cost $75?",
+        "idQuestion": 155
+      }
+    ]
+  },
+  {
+    "paragraph": "A History of Sports from Ancient Times to the Present<br>By Rebecca Jean Porter<br>Illustrated, 248 pp.<br>Oakview Press, Westport, CT $32.95<br>Rebecca Jean Porter, the author of Olympic Dreams, has attained another perfect score in this engaging and readable history. A History of Sports from Ancient Times to the Present covers everything from sporting events in ancient Rome to the origins of teams sports in North America, and it includes a section on sports played on contemporary university campuses. I highly recommend the chapter with detailed instructions on how to play games that had previously been lost over time. Porter's comprehensive introduction and bibliography, as well as the time line of dates and events, make this a reference work that should be purchased by all public libraries. An online companion volume will be published next year.<br><br>Andrew Huff",
+    "listquestion": [
+      {
+        "answerCorrect": "B",
+        "B": "It is a well-written work.",
+        "A": "It is not as good as Olympic Dreams.",
+        "C": "It does not cover previous centuries in detail.",
+        "D": "It is currently available online.",
+        "question": "What does Andrew Huff suggest about the book?",
+        "idQuestion": 156
+      },
+      {
+        "answerCorrect": "C",
+        "C": "Community libraries",
+        "B": "University students",
+        "A": "Sports centers",
+        "D": "Sports players",
+        "question": "For what group is the book particularly recommended?",
+        "idQuestion": 157
+      },
+      {
+        "answerCorrect": "A",
+        "A": "A schedule of local sporting events",
+        "B": "Names of reference sources",
+        "C": "A listing of historical dates",
+        "D": "A thorough opening section",
+        "question": "What is NOT mentioned as being included in the book?",
+        "idQuestion": 158
+      }
+    ]
+  },
+  {
+    "paragraph": "Mr. S. Kayasit, president<br>Golden Crown Resorts<br>31/66 Rays Road<br>Patong Beach<br>Phuket 83150<br>Thailand<br><br>Dear Mr. Kayasit: <br><br>Thank you Vera much for offering me the position of Properties Agent for your office in Phuket. I appreciate your discussing the details of the position with me and giving me time to consider your offer. I also enjoyed meeting Mr. Van Vliet, the current Properties Agent in Phuket<br>You have a fine organization and there are many aspects of the position which are very appealing to me. However, I believe it is in our mutual heat interest that I decline your kind offer. I have decided to accept a position as the Sales Director for a smaller company located in Kyoto. This has been a difficult decision for me, hut I believe it is the appropriate one for my career and family at this time. <br>I want to thank you for the consideration and courtesy shown to me. It was a pleasure meeting you and Mr. Puapondh, the head of Operations. <br><br> Sincerely, <br> Ryusuke Hayashida",
+    "listquestion": [
+      {
+        "answerCorrect": "D",
+        "D": "To turn down a job offer",
+        "B": "To accept a new position",
+        "C": "To discuss employment opportunities",
+        "A": "To request further information from the personnel office",
+        "question": "Why was this letter written?",
+        "idQuestion": 159
+      },
+      {
+        "answerCorrect": "C",
+        "C": "The Company President",
+        "B": "The Head of Operations",
+        "A": "The Properties Agent",
+        "D": "The Sales Director",
+        "question": "Who offered the opportunity for employment?",
+        "idQuestion": 160
+      },
+      {
+        "answerCorrect": "C",
+        "C": "Mr. Hayashida",
+        "B": "Mr. Van Vliet",
+        "A": "Mr. Kayasit",
+        "D": "Mr. Puapondh",
+        "question": "Who does NOT work for Golden Crown Resorts?",
+        "idQuestion": 161
+      }
+    ]
+  },
+  {
+    "paragraph": "<b><p align =\"center\"> DOWNTOWN DELUXE</p></b> The recently completed Menlo Industrial Park is open for inspection. Prospective tenants may make appointments to discuss their space requirements with our sales representatives. The Park can accommodate corporations with hundreds of employees as easily as it can operations with only two employees. All services and security are state of the art. Each rental unit comes with a complete shower room and private gymnasium. Employee health means corporate health.",
+    "listquestion": [
+      {
+        "answerCorrect": "C",
+        "C": "A shower",
+        "B": "Wood on the walls",
+        "A": "Many long tables",
+        "D": "Modern lighting",
+        "question": "What does each unit include?",
+        "idQuestion": 162
+      },
+      {
+        "answerCorrect": "B",
+        "B": "Very up-to-date",
+        "A": "Artistic",
+        "C": "Easy to operate",
+        "D": "Reasonable",
+        "question": "How are the facilities generally described?",
+        "idQuestion": 163
+      },
+      {
+        "answerCorrect": "D",
+        "D": "Office space",
+        "B": "A restaurant",
+        "C": "A luxury apartment",
+        "A": "A boutique",
+        "question": "What is this an advertisement for?",
+        "idQuestion": 164
+      }
+    ]
+  },
+  {
+    "paragraph": "<p align =\"center\"> Are you one of those people who suffer from: <br><b>sneezing? <br>runny, itchy noses? <br>red, watery, itchy eyes? </b> <br>The Research Institute of Ragweed Allergies is currently conducting a study and is asking volunteers to participate in testing an experimental drug. <br>Those who pass the qualification procedure Will receive compensation for his/her part in contributing to the study. <br><b>Call: 905-629-3333 (Ext. 1) or Toll free: 1-800-RIRA-5544 Email: volunteer@researcheinstitute-ragweed.com</b><br>Regular hours of operation: Monday to Friday: 9.a.m to 6.p.mSaturday: 9.a.m to 1.p.m<br>Research Institute of RA<br>4520 Dixie Rd in Missisauga<br>2 block south of Eglington Ave<br>www.researchinstitute-ragweed.com</p>",
+    "listquestion": [
+      {
+        "answerCorrect": "A",
+        "A": "They’re the most prevalent during the late summer months",
+        "B": "Research about them has been ongoing for the entire summer",
+        "C": "They have been the main public issue in recent months",
+        "D": "They affect a great number of people living in host climates",
+        "question": "What can be implied about ragweed allergies form the notice?",
+        "idQuestion": 165
+      },
+      {
+        "answerCorrect": "C",
+        "C": "The specific compensation each participant will receive for volunteering",
+        "B": "A number where interested people could call",
+        "A": "The subject of the study being conducted",
+        "D": "The conditions required for those who want to make a contribution",
+        "question": "Which of the following information is NOT found in the notice?",
+        "idQuestion": 166
+      },
+      {
+        "answerCorrect": "C",
+        "C": "To recruit people who are willing to come forward for a medical cause",
+        "B": "To announce a medical breakthrough in curing ragweed allergies",
+        "A": "To inform the public about the spread of a new type of an allergy",
+        "D": "To provide the results of a test conducted by the reason institute",
+        "question": "What is the primary reason for taking out this notice?",
+        "idQuestion": 167
+      }
+    ]
+  },
+  {
+    "paragraph": "Notice to All Employees<br>As we enter the cold and flu season, the management wants to remind all employees to wash their hands after using the restroom and before returning to work. This is especially important for cooks, waiters and waitresses. As most of you are aware, germs, viruses, and bacteria are passed on mainly through hand contact. Here at The Happy Sandwich restaurant, hygiene and cleanliness are our number one priority. This policy will be strictly enforced. Thank you for your attention in this matter.",
+    "listquestion": [
+      {
+        "answerCorrect": "C",
+        "C": "Hygiene and cleanliness",
+        "B": "Serving delicious food",
+        "A": "Having the lowest prices in town",
+        "D": "Having the most polite staff",
+        "question": "What is the restaurant’s main priority?",
+        "idQuestion": 168
+      },
+      {
+        "answerCorrect": "C",
+        "C": "Winter",
+        "B": "Spring",
+        "A": "Fall",
+        "D": "Summer",
+        "question": "Which season is approaching?",
+        "idQuestion": 169
+      },
+      {
+        "answerCorrect": "B",
+        "B": "The Happy Sandwich",
+        "A": "The Management",
+        "C": "The Winter Season",
+        "D": "The Strict Policy",
+        "question": "What is the name of the restaurant?",
+        "idQuestion": 170
+      }
+    ]
+  },
+  {
+    "paragraph": "<b><p align =\"center\"> TRAVEL REIMBURSEMENT REGULATIONS</p></b><table align =\"center\"><tr><td>Daily allowances</td><td>Domestic meals, lodging, and incidentals</td><td>Foreign meals and incidentals</td></tr><tr><td>Time Periods:<br>Each 24-hour period </td><td>£100</td><td>£120</td></tr><tr><td> Over 2 hours but not in excess of 4 hours </td><td>£10</td><td>£15</td></tr><tr><td>Over 4 hours but not in excess of 8 hours </td><td>£20</td><td>£30</td></tr><tr><td> Over 8 hours but not in excess of 12 hours </td><td>£40</td><td>£60</td></tr><tr><td> Over 12 hours to 24 hours </td><td>£90</td><td>£110</td></tr></table><br>All reimbursement for travel expenses must be authorized by an approved Travel Request (Form 2300L) prior to the time the expenses am incurred. Further Information concerning the regulation. or Interpretation of this policy Is obtainable from the travel section of the Accounting Office, Building A, Room 566.",
+    "listquestion": [
+      {
+        "answerCorrect": "C",
+        "C": "A travel request form ",
+        "B": " A hotel reservation notice ",
+        "A": " A contract for a car rental ",
+        "D": " A letter from the manager",
+        "question": "What should an employee submit before leaving on a business trip?",
+        "idQuestion": 171
+      },
+      {
+        "answerCorrect": "A",
+        "A": "£60 ",
+        "B": "£15 ",
+        "C": "£40 ",
+        "D": " £90 ",
+        "question": "How much is an employee reimbursed for foreign travel costs for a 10-hour excursion?",
+        "idQuestion": 172
+      }
+    ]
+  },
+  {
+    "paragraph": "Georgio Industry has recently introduced a new line of fashion accessories. The new product line was introduced at a fashion show in New York, and will be sold exclusively at Bloom’s Department Stores. Industry experts predict that the new line of handbags will become as popular as Georgio’s regular line of high-level-end wool, cashmere and silk garments. Georgio hopes that the handbags will boost product sales. For the first time in three years, Georgio reported a drop in sales. Last quarter’s sales figures dropped slightly below $75 million. Georgio also reported that it would look into additional distribution channels for all of its products.",
+    "listquestion": [
+      {
+        "answerCorrect": "A",
+        "A": "To increase distribution channels",
+        "B": "To complete with Bloom’s",
+        "C": "To increase product sales",
+        "D": "To reduce current sales figures",
+        "question": "Why did Georgio introduce a new product line?",
+        "idQuestion": 173
+      },
+      {
+        "answerCorrect": "A",
+        "A": "Accessories Retail",
+        "B": "Handbag Distribution",
+        "C": "Fashion Show Production",
+        "D": "Garment Manufacturing",
+        "question": "What is Georgio’s role in the fashion industry?",
+        "idQuestion": 174
+      }
+    ]
+  },
+  {
+    "paragraph": "Prepare for a NEW CAREER<br>Or get your H.S. Diploma at home<br><br>You’ve always wanted to start a new career, but could never find the time to get the training you need. Until now. The Learning Center can help you study at home in your spare time to get the skills you need to succeed! <br><br>Get your career diploma as a private investigator or medical transcriptionist in as little as six months! Earn your high school diploma in as little as nice months. In as little as two years, you could even have your degree in accounting! <br><br>Join the 8 million men and women who enrolled with The Learning Center to change their lives for the better. Call, write, or visit our website today for FREE information! <br>For fastest service, call toll free: 1 800 555 9878 ext. 834<br>Visit our website:<u> www.thelearningcenter.com</u><br>Choose ONE of the programs below: <br>06 High School<br>86 Accounting 57 Private Investigator<br>21 Medical Transcriptionist<br>Dept. LV168R<br>456 Elm Road Boynton Cove, FL 31245",
+    "listquestion": [
+      {
+        "answerCorrect": "A",
+        "A": "Whenever you had free time",
+        "B": "In the mornings",
+        "C": "In the evenings",
+        "D": "On the weekends",
+        "question": "When does the ad say you would be able to study for a career?",
+        "idQuestion": 175
+      },
+      {
+        "answerCorrect": "A",
+        "A": "Two years",
+        "B": "Six months",
+        "C": "Nine months",
+        "D": "Eighteen months",
+        "question": "How long would it take you to get a degree in accounting?",
+        "idQuestion": 176
+      }
+    ]
+  },
+  {
+    "paragraph": "<b><p align =\"center\"> CLOUD COMPUTING</p></b>We’ve all heard of it somewhere along the lines, and perhaps you’ve even asked yourself…is Cloud Computing for me and my business?... The answer is an emphatic YES!<br>Whether you are a medium or small business, or even an individual user, Cloud Computing is absolutely the way to go. Why pay to maintain an internal server and worry about unreliable in-house backup when you can have all you data safe and sound on the cloud, and have the ability to access it from ANYWHERE!<br><b>SOME OF THE PRINCIPAL BENEFITS OF CLOUD COMPUTING:</b><br>&nbsp;&nbsp;   • Piece of mind: your data is always backed up by virtue of the fact that it’s on the cloud. Save your documents into your My Documents folder or Desktop, and it’s on the cloud. <br>&nbsp;&nbsp;   • Having the ability to share data files, Calendars, and Contacts with your employees or co-workers and have access to these files from anywhere in the world, on any of your mobile devices. <br>&nbsp;&nbsp;   • Access your Email, Contacts and Calendars from anywhere. <br>&nbsp;&nbsp;   • COST! Cloud Computing is incredibly inexpensive. As low as four dollars per month per user which includes 10 gigs of file space, and just ten dollars per month per user for 25gigs of mailbox space! Compare that to what it costs to purchase and maintain an internal server!<br><br>Let us show you how you can enjoin the benefits of Cloud Computing with a Free Consultation and… Provide you reference and testimonials from other businesses we’ve already converted to cloud computing.",
+    "listquestion": [
+      {
+        "answerCorrect": "C",
+        "C": "Being more expensive than an internal server",
+        "B": "Sharing data via any mobile devices",
+        "A": "Saving data on the cloud",
+        "D": "Accessing data files from any place in the world",
+        "question": "Which of the following is NOT mentioned as a benefit of cloud computing?",
+        "idQuestion": 177
+      },
+      {
+        "answerCorrect": "C",
+        "C": "A piece of software",
+        "B": "A kind of computer",
+        "A": "A kind of mobile",
+        "D": "A machine for weather forecasting",
+        "question": "What is being advertised?",
+        "idQuestion": 178
+      }
+    ]
+  },
+  {
+    "paragraph": "Lericz Outsourcing<br>MEMORANDUM<br>From: Management T.C.<br>To: All staff<br>Date: November, 9th 2006<br>Re: END OF YEAR PARTY<br><br>It’s that time of year again. Christmas is our busiest season of the year. It is always a great struggle for the staff and management to come up with an end of year party. It is for this reason that a resolution has been reached to hold the end of year party after the busy season. The party details are as follows:<br>Date: Second or third Saturday in January<br>Theme: Beach<br>Special events: Karaoke and belly dancing<br>Food: Caribbean<br><br>T.C.<br>",
+    "listquestion": [
+      {
+        "answerCorrect": "C",
+        "C": "The second week in January, 2007",
+        "B": "The first week in January, 2006",
+        "A": "The second week in January 2006",
+        "D": "Both the first and second Saturday in January, 2007",
+        "question": "When will the party be held?",
+        "idQuestion": 179
+      },
+      {
+        "answerCorrect": "A",
+        "A": "Jumping",
+        "B": "Singing",
+        "C": "Dancing",
+        "D": "Eating",
+        "question": "Which activity is NOT mentioned in the memo?",
+        "idQuestion": 180
+      },
+      {
+        "answerCorrect": "C",
+        "C": "To announce a celebration plan when the year ends",
+        "B": "To notify the working schedule at Christmas",
+        "A": "To tell employees to hold a party for Christmas",
+        "D": "To announce a struggle for employees and boss to get a party at the end of the year",
+        "question": "What is the purpose of this memo?",
+        "idQuestion": 181
+      },
+      {
+        "answerCorrect": "D",
+        "D": "At the beach",
+        "B": "At the foot of a mountain",
+        "C": "On the yacht",
+        "A": "In the yard",
+        "question": "Where will the party be?",
+        "idQuestion": 182
+      }
+    ]
+  },
+  {
+    "paragraph": "13870 Nares Road<br>Bangkok<br>Thailand 10500<br>June 30<br><br>Dear Ms. Baharn,<br>I'd like to thank you for the time you spent with me discussing the marketing researcher position at Amarin, Ltd. After interviewing with you and touring the facility, I feel strongly that this company would be an ideal place for me to work.<br>I now understand why Amarin, Ltd., is considered the premier publisher of travel and tourism books in the region. I am impressed by the fact that it as been listed as one of Thailand's ten most successful businesses since it was founded six years ago. The company's reputation for quality is also reflected in its outstanding record of employee retention.<br>I wanted to emphasize the fact that I attended a three-week intensive seminar on MarkTrends, the foremost marketing research software package. I know the job description mentions the ability to use MarkTrends, and I wanted to let you know that I am very comfortable using this software.<br>Again, thank you for your time and consideration. I hope to hear from you soon concerning your hiring decision.<br><br>Yours truly, <br>Anusak Arinchai",
+    "listquestion": [
+      {
+        "answerCorrect": "D",
+        "D": "His familiarity with a software program",
+        "B": "His degree in marketing",
+        "C": "His overseas travel experience",
+        "A": "His presentations at professional seminars",
+        "question": "What did the writer want to emphasize about his background?",
+        "idQuestion": 183
+      },
+      {
+        "answerCorrect": "A",
+        "A": "Its high ranking on a list of successful businesses",
+        "B": "Its large number of employees",
+        "C": "Its international reputation",
+        "D": "Its use of up-to-date computer technology",
+        "question": "What does the letter indicate is a sign that Amarin, Ltd., is doing very well?",
+        "idQuestion": 184
+      },
+      {
+        "answerCorrect": "B",
+        "B": "It was started six years ago.",
+        "A": "It plans to expand its operations to other countries.",
+        "C": "It will be hiring several marketing researchers.",
+        "D": "It has been successful because of its marketing strategies.",
+        "question": "What is stated in the letter about Amarin, Ltd.?",
+        "idQuestion": 185
+      },
+      {
+        "answerCorrect": "C",
+        "C": "A publishing company",
+        "B": "A marketing firm",
+        "A": "A trading company",
+        "D": "A research institute",
+        "question": "What kind of business is Amarin, Ltd.?",
+        "idQuestion": 186
+      }
+    ]
+  },
+  {
+    "paragraph": "39 Levett’s Lane<br>Bodiam<br>East Sussex<br>TN37 7AZ<br>Customer Services Department<br>Safety Net Insurance<br><br>217 Woodland Park Road<br>Norwich NR28 5GV<br><br>Dear Sir or Madam, <br>Refund on motor insurance: Policy number 6583 NTFC 0045<br>In August you sent me a cheque for $103.35 with regard to my motor insurance. The cheque was issued in my maiden name of Smith. However, in June 2004 I married and changed my surname to Jones.Unfortunately, this means that my bank will not accept your cheque. My bank account is now in my married name. I return the cheque herewith and request that a payment be re-issued in the name of Mrs Sarah Anne Jones. <br>I also enclose a copy of my marriage certificate so that you may amend my name on your records. My address details remain the same. <br>Thank you very much for your assistance. <br><br>Yours faithfully, <br>Mrs Sarah Jones",
+    "listquestion": [
+      {
+        "answerCorrect": "B",
+        "B": "An insurance company",
+        "A": "A bank",
+        "C": "A local council",
+        "D": "A garage",
+        "question": "To which of the following did Mrs. Jones send her letter?",
+        "idQuestion": 187
+      },
+      {
+        "answerCorrect": "B",
+        "B": "Modify",
+        "A": "Repair",
+        "C": "Fix",
+        "D": "Mend",
+        "question": "The word “amend” in paragraph 3, line 1 is closest in meaning to?",
+        "idQuestion": 188
+      },
+      {
+        "answerCorrect": "B",
+        "B": "In June, 2004",
+        "A": "In August, 2004",
+        "C": "In September,2004",
+        "D": "In July, 2004",
+        "question": "When did Mrs. Jones get married?",
+        "idQuestion": 189
+      },
+      {
+        "answerCorrect": "D",
+        "D": "To ask for a payment in her married name",
+        "B": "To ask for a new cheque",
+        "C": "To announce that she had married",
+        "A": "To buy a new kind of motor insurance",
+        "question": "Why did Mrs. Jones write this letter?",
+        "idQuestion": 190
+      }
+    ]
+  },
+  {
+    "paragraph": "The country’s GDP increased by 0.9 per cent in the third quarter of 2009; significantly higher than the rate of 0.4 percent seen in the previous quarter. <br>No one sector can be held responsible for the increase, as there was growth across the board in each of services, construction and production. <br><br>Services output rose to 1.0 percent, and the largest contribution to this was the Business and Finance sector, which rose by 1.3 percent. Communications, Government services and Hospitality also rose, but there was a decline in Transport and Distribution. <br><br>Construction output rose 3.4 per cent in this quarter, a considerable improvement from the second quarter, in which output decreased by 1.6 per cent. <br><br>Total production output grew in the third quarter at a rate of 1.0 per cent, the same rate as in the previous quarter. Electricity, gas and water supply output contributed most to growth in the production sector, as output rose from 0.8 to 1.5 percent. Manufacturing, mining and agriculture all decreased during this period.Top of Form",
+    "listquestion": [
+      {
+        "answerCorrect": "C",
+        "C": " Construction output ",
+        "B": "Transport output ",
+        "A": "Total production ",
+        "D": "Agricultural output ",
+        "question": "Which of the following figures decreased in the second quarter and rose in the third quarter?",
+        "idQuestion": 191
+      },
+      {
+        "answerCorrect": "C",
+        "C": "Electricity Gas and Water Supply",
+        "B": "Business and Finance",
+        "A": "Government Services",
+        "D": "Manufacturing",
+        "question": "Which of the following had the highest rate of output in the third quarter?",
+        "idQuestion": 192
+      },
+      {
+        "answerCorrect": "C",
+        "C": "Electricity Gas and Water Supply",
+        "B": "Communications",
+        "A": "Distribution",
+        "D": "Hospitality",
+        "question": "Which of the following is NOT a Service?",
+        "idQuestion": 193
+      },
+      {
+        "answerCorrect": "D",
+        "D": "a growth of 1.0 percent",
+        "B": "a decrease of 1.0 percent",
+        "C": "An increase of 0.8 percent",
+        "A": "An increase of 0.9 percent",
+        "question": "What was the Total production output in the second quarter?",
+        "idQuestion": 194
+      },
+      {
+        "answerCorrect": "B",
+        "B": "It increased in both the second and third quarters",
+        "A": "It decreased in the second quarter, and increased in the third quarter",
+        "C": "It increased in the second quarter and decreased in the third quarter",
+        "D": "It decreased in both the second and third quarters",
+        "question": "Which of the following is true about the country’s GDP?",
+        "idQuestion": 195
+      }
+    ]
+  },
+  {
+    "paragraph": "Sustainability Magazine<br>Volume 10, No. 6<br>June 2009<br><br>Manufacturers Going Green<br>By Leo Durham<br>An increasing number of manufacturing companies around the country are going green, which they hope will put more green into their cash registers.<br>The Manufacturers Extension Partnership (MEP) works with a variety of state and regional industry associations and economic development groups to teach companies \"lean\" manufacturing techniques.<br> This not-for-profit organization, administered by the Department of Commerce, demonstrates how to reduce waste, or \"fat,\" in the manufacturing process. This includes things such as cutting energy use, incorporating more efficient production techniques, and finding cheaper methods of packaging and shipping goods.<br>The result is better not only for the environment, but also for company profits. Last year, MEP helped more than 1,000 firms save about $1.4 billion and increase their sales by $10.5 billion. These actions led to the creation of nearly 57,000 new jobs.<br> \"It was tremendous for us,\" said Mark McCartney, general manager of the Clear Water bottled water company. \"MEP showed us how to cut our energy production in half, which led to a 3-percent increase in sales, and a 100-percent increase in production capacity.\"<br>McCartney has been quick to spread the wealth. Last year, a bottle of Clear Water retailed for $1.50. Now, MEP training has enabled the company to slash the price to $1.20.<br><br>Your turn<br><br>Dear editor:<br>I enjoyed the article on MEP in the June issue of Sustainability Magazine. When manufacturers pass savings onto customers, everybody wins.<br>Overall, the writer did a fine job. However, there is one mistake in the article I would like to point out. After our company finished training with MEP, sales jumped 30 percent, and our production capacity increased by 10 percent.<br>I would encourage every manufacturer to consider partnering with MEP. There's always some fat that can be trimmed from the production process.<br><br>William Lyons<br>CEO, Clear Water Bottling",
+    "listquestion": [
+      {
+        "answerCorrect": "D",
+        "D": "Clear Water general manager",
+        "B": "Author of the article",
+        "C": "Clear Water CEO",
+        "A": "President of the MEP",
+        "question": "Who is Mark McCartney?",
+        "idQuestion": 196
+      },
+      {
+        "answerCorrect": "A",
+        "A": "Clear Water's sales rose by 3 percent",
+        "B": "Clear Water''s production capacity increased 10 percent",
+        "C": "Clear Water dropped its retail prices",
+        "D": "Clear Water halved its energy production",
+        "question": "What is NOT true?",
+        "idQuestion": 197
+      },
+      {
+        "answerCorrect": "D",
+        "D": "To teach manufacturers how to reduce waste",
+        "B": "To help manufacturers increase their profits",
+        "C": "To create new jobs in the manufacturing sector",
+        "A": "To lower the retail prices of consumer goods",
+        "question": "What is the main purpose of MEP?",
+        "idQuestion": 198
+      },
+      {
+        "answerCorrect": "C",
+        "C": "Money",
+        "B": "Paper",
+        "A": "Sales",
+        "D": "Coins",
+        "question": "In the article, the word \"green\" in paragraph 1, line 2, is closest in meaning to",
+        "idQuestion": 199
+      },
+      {
+        "answerCorrect": "A",
+        "A": "$1.4 billion",
+        "B": "$10.5 billion",
+        "C": "$57,000",
+        "D": "$1,000,000",
+        "question": "According to the article, how much money did MEP help firms save last year?",
+        "idQuestion": 200
+      }
+    ]
+  }
+]

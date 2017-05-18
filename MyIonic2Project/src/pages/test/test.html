@@ -1,0 +1,40 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Các bài TEST</ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content padding>
+  <ion-list>
+
+      <div class="item" *ngFor="let test of listToeicTest; let i = index" (click)="selectToeicTest(test)"> 
+          <p class="stt-test">{{ i + 1 }}</p>
+          <p class="name-test">TEST {{ i + 1 }}</p>
+          <div class="vuong-mien">
+              <img class="img" src="./assets/icon/vuong_mien.png">
+              <img class="img" src="./assets/icon/vuong_mien.png">
+              <img class="img" src="./assets/icon/vuong_mien.png">
+          </div>
+          <i class="is-finished">Hoàn thành</i>
+          <i class="score">990</i>
+
+          <div class="label-downloaded" *ngIf=" test.downloaded == 0 " >Tải xuống</div>
+      </div>
+      <div class="item"> 
+          <p class="stt-test">2</p>
+          <p class="name-test">TEST 2</p>
+          <div class="vuong-mien">
+              <img class="img" src="./assets/icon/vuong_mien2.png">
+              <img class="img" src="./assets/icon/vuong_mien2.png">
+              <img class="img" src="./assets/icon/vuong_mien2.png">
+          </div>
+
+
+          <div class="label-downloaded">Tải xuống</div>
+      </div>
+
+  </ion-list>
+
+</ion-content>

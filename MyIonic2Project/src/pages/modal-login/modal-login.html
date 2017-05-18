@@ -1,0 +1,30 @@
+<ion-content>
+	<div class="container">
+		<div style="text-align: center;">
+			<img src="./assets/images/login-form.png">
+		</div>
+
+		<ion-list>
+		  	<ion-item>
+	    		<ion-label floating>Email</ion-label>
+		    	<ion-input type="text" [(ngModel)]="email"></ion-input>
+		  	</ion-item>
+
+		  	<ion-item>
+		    	<ion-label floating>Mật khẩu</ion-label>
+		    	<ion-input type="password" [(ngModel)]="password"></ion-input>
+		  	</ion-item>
+
+		  	<button class="btn-login" ion-button outline (click)="login()">Đăng nhập</button>
+		  	<p style="text-align: center;margin: 4px 0px;">Hoặc</p>
+		  	<button class="btn-login-fb" ion-button (click)="dismiss()" style="background: #3b5998!important;margin-top: 2px;">
+		  		<img src="./assets/images/facebook-icon.png">
+		  		<span>Đăng nhập bằng Facebook</span>
+		  	</button>
+		  	<p></p>
+		  	<button class="btn-register" (click)="showRegisterModal()" ion-button color="secondary" outline>Tạo tài khoản</button>
+		</ion-list>
+		
+	</div>
+		
+</ion-content>

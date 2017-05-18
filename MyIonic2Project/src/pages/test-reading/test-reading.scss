@@ -1,0 +1,115 @@
+page-test-reading {
+    ion-title{
+        width: calc(100% - 64px);
+    }
+
+    .timer{
+        position: absolute;
+        right: 12px;
+        top: 12px;
+        width: 68px;
+        margin: 0;
+        font-size: 16px;
+        color: white;
+        background: #2932a9;
+        padding: 6px;
+        border-radius: 10px;
+    }
+
+    ion-content{
+        background: #ddeaf7!important;
+    }
+
+    .active-tab{
+        background: #ddeaf7!important;
+        border-bottom: 2px solid #2932a9;
+    }
+
+    .item-tab{
+        width: calc(33% - 2px);
+        float: left;
+        text-align: center;
+        height: 36px;
+        padding-top: 10px;
+        background: #ddeaf7;
+        color: #2932a9;
+        margin-left: 1px;
+    }
+
+    .disable{
+        pointer-events: none;
+    }
+
+    .content-part{
+        height: calc(100% - 40px );
+        margin-top: 40px;
+    }
+    .paragraph{
+        border: 2px solid rgb(155, 155, 155);
+        padding: 4px;
+    }
+
+    .content-part-7, .content-part-6, .content-part-5{
+        height: 100%;
+    }
+
+    .list-question, .list-group{
+        height:calc(100% - 10px);
+        overflow: auto;
+    }
+
+    .stt{
+        color: red;
+        margin: 0px;
+    }
+
+
+    .answer{
+        width:25%;
+        float: left;
+        text-align: center;
+    }
+
+    .answer-part-5{
+        position: relative;
+        margin-bottom: 8px;
+        height: 30px;
+    }
+
+    .answer-part-5 p{
+        position: absolute;
+        top: 0px;
+        margin: 0;
+        left: 24px;
+        width: calc(100% - 30px);
+    }
+
+    .answer input, .answer-part-5 input{
+        min-height: 18px;
+        min-width: 18px;
+    }
+
+    .finish-part{
+        width: 90px;
+        height: 40px;
+        margin-bottom: 10px;
+        margin-left: calc(50% - 40px);
+        margin-top: 10px;
+        padding: 4px;
+    }
+
+    .finish-part p{
+        margin: 0;
+        margin-right: 10px;
+        margin-top: 4px;
+        float: left;
+        font-size: 18px;
+        color: blue;
+    }
+
+    .finish-part .next{
+        font-size: 24px;
+        color: blue;
+        float: left;
+    }
+}

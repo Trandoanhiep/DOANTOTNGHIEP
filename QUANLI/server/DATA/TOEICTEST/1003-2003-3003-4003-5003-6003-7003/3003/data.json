@@ -1,0 +1,272 @@
+[
+  {
+    "idQuestion": "41",
+    "answerCorrect": "D",
+    "question": "Where does the conversation take place?",
+    "A": "In a police station",
+    "B": "In an apartment building",
+    "C": "In a library",
+    "D": "In a hotel"
+  },
+  {
+    "idQuestion": "42",
+    "answerCorrect": "B",
+    "question": "What is the man looking for?",
+    "A": "A room key",
+    "B": "A phone",
+    "C": "A map",
+    "D": "A book"
+  },
+  {
+    "idQuestion": "43",
+    "answerCorrect": "A",
+    "question": "What will the woman do next?",
+    "A": "Call someone",
+    "B": "Go to a store",
+    "C": "Clean the lobby",
+    "D": "Fill out a form"
+  },
+  {
+    "idQuestion": "44",
+    "answerCorrect": "B",
+    "question": "What are the speakers discussing?",
+    "A": "Setting up a computer",
+    "B": "Preparing for a party",
+    "C": "Buying a table",
+    "D": "Paying a contractor"
+  },
+  {
+    "idQuestion": "45",
+    "answerCorrect": "D",
+    "question": "What does the man want the woman to do?",
+    "A": "Attend a meeting",
+    "B": "Present a project",
+    "C": "Reschedule a party",
+    "D": "Help with an event"
+  },
+  {
+    "idQuestion": "46",
+    "answerCorrect": "B",
+    "question": "When does the woman’s meeting end?",
+    "A": "At 4:00 P.M",
+    "B": "At 5:00 P.M",
+    "C": "At 6:00 P.M",
+    "D": "At 7:00 P.M"
+  },
+  {
+    "idQuestion": "47",
+    "answerCorrect": "C",
+    "question": "Who most likely is the woman?",
+    "A": "A doctor",
+    "B": "A university professor",
+    "C": "An office receptionist",
+    "D": "A hotel clerk"
+  },
+  {
+    "idQuestion": "48",
+    "answerCorrect": "A",
+    "question": "What does the man want to do?",
+    "A": "Change a doctor’s appointment",
+    "B": "Sign up for a course at a university",
+    "C": "Make a restaurant reservation",
+    "D": "Pay for a hotel room"
+  },
+  {
+    "idQuestion": "49",
+    "answerCorrect": "D",
+    "question": "When did the man see Dr. Hanson?",
+    "A": "In May",
+    "B": "In June",
+    "C": "In November",
+    "D": "In December"
+  },
+  {
+    "idQuestion": "50",
+    "answerCorrect": "B",
+    "question": "What is the problem?",
+    "A": "The coffeemaker is broken",
+    "B": "The man cannot make copies",
+    "C": "The woman did not approve the flyers",
+    "D": "The book sale has been canceled"
+  },
+  {
+    "idQuestion": "51",
+    "answerCorrect": "A",
+    "question": "When does this conversation take place?",
+    "A": "On Monday",
+    "B": "On Tuesday",
+    "C": "On Wednesday",
+    "D": "On Thursday"
+  },
+  {
+    "idQuestion": "52",
+    "answerCorrect": "C",
+    "question": "What does the woman suggest they do?",
+    "A": "Hire an accountant",
+    "B": "Call a repair person",
+    "C": "Contact Tom",
+    "D": "Purchase the books"
+  },
+  {
+    "idQuestion": "53",
+    "answerCorrect": "D",
+    "question": "What problem are the speakers discussing?",
+    "A": "The stock of merchandise is running low",
+    "B": "Someone moved the supplies",
+    "C": "The machine needs to be repaired",
+    "D": "There are not enough employees"
+  },
+  {
+    "idQuestion": "54",
+    "answerCorrect": "C",
+    "question": "What happened yesterday?",
+    "A": "A worker retired",
+    "B": "A plan was drawn up",
+    "C": "A contract was received",
+    "D": "A manager was promoted"
+  },
+  {
+    "idQuestion": "55",
+    "answerCorrect": "C",
+    "question": "What does the man suggest as a solution?",
+    "A": "Contacting a repair person",
+    "B": "Asking the staff to sign new contracts",
+    "C": "Getting help from another department",
+    "D": "Putting new products on sale"
+  },
+  {
+    "idQuestion": "56",
+    "answerCorrect": "B",
+    "question": "What is the man’s problem?",
+    "A": "His business is not growing very fast",
+    "B": "His office is not big enough",
+    "C": "He missed his train",
+    "D": "He just moved into town"
+  },
+  {
+    "idQuestion": "57",
+    "answerCorrect": "C",
+    "question": "What does the woman suggest the man do?",
+    "A": "Take the train to work",
+    "B": "Check the weather forecast",
+    "C": "Explore the train station area",
+    "D": "Expand his business contacts"
+  },
+  {
+    "idQuestion": "58",
+    "answerCorrect": "A",
+    "question": "What will the man most likely do?",
+    "A": "Continue his search tomorrow",
+    "B": "Renovate his office",
+    "C": "Try to think of another idea",
+    "D": "Walk home from the office"
+  },
+  {
+    "idQuestion": "59",
+    "answerCorrect": "A",
+    "question": "Where does the conversation take place?",
+    "A": "At a theater",
+    "B": "At a restaurant",
+    "C": "At a recording studio",
+    "D": "At an airport"
+  },
+  {
+    "idQuestion": "60",
+    "answerCorrect": "C",
+    "question": "Who is Kathy?",
+    "A": "A waitress",
+    "B": "A ticket agent",
+    "C": "A performer",
+    "D": "A producer"
+  },
+  {
+    "idQuestion": "61",
+    "answerCorrect": "D",
+    "question": "What will the man do tonight?",
+    "A": "Have dinner with a friend",
+    "B": "Purchase a discount ticket",
+    "C": "Perform in a play",
+    "D": "Watch a show"
+  },
+  {
+    "idQuestion": "62",
+    "answerCorrect": "C",
+    "question": "Who requested the changes in the budget proposal?",
+    "A": "The printing company",
+    "B": "The accounting office",
+    "C": "The board of directors",
+    "D": "The supply department"
+  },
+  {
+    "idQuestion": "63",
+    "answerCorrect": "A",
+    "question": "Why was it necessary to change the budget proposal?",
+    "A": "Fuel prices rose",
+    "B": "Annual fees needed to be included",
+    "C": "Printing costs increased",
+    "D": "New bank statements were just received"
+  },
+  {
+    "idQuestion": "64",
+    "answerCorrect": "D",
+    "question": "When will the annual report be sent to the printer?",
+    "A": "On Monday",
+    "B": "On Tuesday",
+    "C": "On Wednesday",
+    "D": "On Thursday"
+  },
+  {
+    "idQuestion": "65",
+    "answerCorrect": "B",
+    "question": "Who most likely are the speakers?",
+    "A": "Plumbers",
+    "B": "Laboratory employees",
+    "C": "Restaurant workers",
+    "D": "Athletes"
+  },
+  {
+    "idQuestion": "66",
+    "answerCorrect": "B",
+    "question": "What problem are the speakers discussing?",
+    "A": "Some missing equipment",
+    "B": "A broken sink",
+    "C": "A wrong telephone number",
+    "D": "Contusing test results"
+  },
+  {
+    "idQuestion": "67",
+    "answerCorrect": "C",
+    "question": "What will the speakers probably do next?",
+    "A": "Hire extra workers",
+    "B": "Delay work until Friday",
+    "C": "Work in different areas",
+    "D": "Contact a different plumber"
+  },
+  {
+    "idQuestion": "68",
+    "answerCorrect": "B",
+    "question": "Why is the man concerned?",
+    "A": "Some boxes have been packed incorrectly",
+    "B": "Shipping costs are too high",
+    "C": "A meeting has been postponed",
+    "D": "The woman’s report is late"
+  },
+  {
+    "idQuestion": "69",
+    "answerCorrect": "D",
+    "question": "What does the man hope to do?",
+    "A": "Develop a new system for paying suppliers",
+    "B": "Arrange for inventory to be checked",
+    "C": "Ship some materials by the end of the week",
+    "D": "Convince the managers of the need for a change"
+  },
+  {
+    "idQuestion": "70",
+    "answerCorrect": "A",
+    "question": "What will the woman probably do next?",
+    "A": "Make a list",
+    "B": "Take a break",
+    "C": "Order some boxes",
+    "D": "Pay a bill"
+  }
+]

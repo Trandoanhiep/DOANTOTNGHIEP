@@ -1,0 +1,111 @@
+page-practice-flashcard {
+	.flip {
+	  -webkit-perspective: 800;
+	  -ms-perspective: 800;
+	  -moz-perspective: 800;
+	  -o-perspective: 800;
+	   height: 350px;
+	   position: relative;
+	   margin-top: -50px;
+	}
+	.flip .card.flipped {
+	  transform:rotatey(-180deg);
+	  -ms-transform:rotatey(-180deg); /* IE 9 */
+	  -moz-transform:rotatey(-180deg); /* Firefox */
+	  -webkit-transform:rotatey(-180deg); /* Safari and Chrome */
+	  -o-transform:rotatey(-180deg); /* Opera */
+	}
+	.flip .card {
+	  width: 100%;
+	  height: 100%;
+	  box-shadow: 0px 0px 0 rgba(0,0,0,.2),0 4px 4px rgba(0,0,0,.19);
+	  -webkit-transform-style: preserve-3d;
+	  -webkit-transition: 0.5s;
+	  -moz-transform-style: preserve-3d;
+	  -moz-transition: 0.5s;
+	  -ms-transform-style: preserve-3d;
+	  -ms-transition: 0.5s;
+	  -o-transform-style: preserve-3d;
+	  -o-transition: 0.5s;
+	  transform-style: preserve-3d;
+	  transition: 0.5s;
+	}
+	.flip .card .face {
+	  width: 100%;
+	  height: 100%;
+	  position: absolute;
+	  z-index: 2;
+	  font-family: Georgia;
+	  text-align: center;
+	  backface-visibility: hidden;  /* W3C */
+	  -webkit-backface-visibility: hidden; /* Safari & Chrome */
+	  -moz-backface-visibility: hidden; /* Firefox */
+	  -ms-backface-visibility: hidden; /* Internet Explorer */
+	  -o-backface-visibility: hidden; /* Opera */
+
+	}
+	.flip .card .front {
+	 	 z-index: 1;
+	    color: #031ff4;
+	    background: #E4E4E4;
+	    padding-top: 30%;
+		font-size: 32px;
+	    display: block;
+	    font-family: Arial, Helvetica, sans-serif;
+	}
+
+	.flip .card .front .word{
+
+	}
+	.flip .card .front .icon-volume{
+		position: absolute;
+		right: 16px;
+		top: 12px;
+		font-size: 22px;
+		padding: 1px 10px 2px 10px;
+		color: white;
+		border: 1px solid #387ef5;
+		background: #387ef5;
+		border-radius: 50%;
+		height: 30px;
+		width: 32px;
+	}
+
+	.flip .card .back {
+	    color: black;
+	  	display: block;
+	    background: #E4E4E4;
+	    font-family: Arial, Helvetica, sans-serif; 
+	    transform:rotatey(-180deg);
+	    -ms-transform:rotatey(-180deg); /* IE 9 */
+	    -moz-transform:rotatey(-180deg); /* Firefox */
+	    -webkit-transform:rotatey(-180deg); /* Safari and Chrome */
+	    -o-transform:rotatey(-180deg); /* Opera */
+	    padding-top: 20%;
+	}
+	.flip .card .back .word{
+		color: rgb(20, 0, 255);
+		font-size: 20px;
+		margin-bottom: 0px;
+	}
+	.flip .card .back .phonetic{
+		color: rgb(121, 121, 121);
+		font-size: 16px;
+	}
+	.flip .card .back .mean{
+		
+	}
+	.flip .card .back .icon-volume{
+		position: absolute;
+		right: 16px;
+		top: 12px;
+		font-size: 22px;
+		padding: 1px 10px 2px 10px;
+		color: white;
+		border: 1px solid #387ef5;
+		background: #387ef5;
+		border-radius: 50%;
+		height: 30px;
+		width: 32px;
+	}
+}

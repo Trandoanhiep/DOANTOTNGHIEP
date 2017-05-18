@@ -1,0 +1,362 @@
+[
+  {
+    "idQuestion": "101",
+    "answerCorrect": "C",
+    "question": "101. Please contact Robert Chen for ___ in purchasing office equipment. ",
+    "A": "store",
+    "B": "type",
+    "C": "help",
+    "D": "furniture"
+  },
+  {
+    "idQuestion": "102",
+    "answerCorrect": "A",
+    "question": "102. The awards ceremony will be ___ on the third floor of the Park Station Hotel. ",
+    "A": "held",
+    "B": "raised",
+    "C": "taken",
+    "D": "granted"
+  },
+  {
+    "idQuestion": "103",
+    "answerCorrect": "D",
+    "question": "103. After Massey Corporation acquired Brawley, Ltd., the ___ of its stock rose twenty percent. ",
+    "A": "valuable",
+    "B": "valuate",
+    "C": "valued",
+    "D": "value"
+  },
+  {
+    "idQuestion": "104",
+    "answerCorrect": "D",
+    "question": "104.  In March, the Grand Symphony Orchestra will present an ___ 0pera by talented newcomer Maria Cruz. ",
+    "A": "excite",
+    "B": "excites",
+    "C": "excited",
+    "D": "exciting"
+  },
+  {
+    "idQuestion": "105",
+    "answerCorrect": "B",
+    "question": "105. We hope to send ___ tax documents to you by the end of the week. ",
+    "A": "you",
+    "B": "your",
+    "C": "yours",
+    "D": "yourself"
+  },
+  {
+    "idQuestion": "106",
+    "answerCorrect": "B",
+    "question": "106. All materials ___ for the upcoming seminar need to be copied at least two days in advance. ",
+    "A": "called",
+    "B": "required",
+    "C": "questioned",
+    "D": "invited"
+  },
+  {
+    "idQuestion": "107",
+    "answerCorrect": "A",
+    "question": "107. After the switch malfunction, electrical service on the main building was ___ restored at 8 P.M. ",
+    "A": "finally",
+    "B": "constantly",
+    "C": "consecutively",
+    "D": "usually"
+  },
+  {
+    "idQuestion": "108",
+    "answerCorrect": "D",
+    "question": "108. Traveling by train to Tokyo takes approximately one hour less ___ traveling by car. ",
+    "A": "for",
+    "B": "with",
+    "C": "as",
+    "D": "than"
+  },
+  {
+    "idQuestion": "109",
+    "answerCorrect": "A",
+    "question": "109. Because Hong Kong is home to people from all over the world , a ___ of fashion styles can be seen in the city on any given day. ",
+    "A": "variety",
+    "B": "kind",
+    "C": "separateness",
+    "D": "distance"
+  },
+  {
+    "idQuestion": "110",
+    "answerCorrect": "D",
+    "question": "110. Midtown Hospital compares ___ with other hospitals and provides services at lower rates. ",
+    "A": "favor",
+    "B": "favored",
+    "C": "favorable",
+    "D": "favorably"
+  },
+  {
+    "idQuestion": "111",
+    "answerCorrect": "A",
+    "question": "111.  ___ there had not been slight delays in the bus service to the airport, Ms. Suzuki would have caught her scheduled flight to Brussels. ",
+    "A": "If",
+    "B": "Whereas",
+    "C": "Unless",
+    "D": "Even"
+  },
+  {
+    "idQuestion": "112",
+    "answerCorrect": "B",
+    "question": "112.  Magnum Plus cameras ___ very popular right now because they are so easy to use. ",
+    "A": "became",
+    "B": "are becoming",
+    "C": " to become",
+    "D": "becomes"
+  },
+  {
+    "idQuestion": "113",
+    "answerCorrect": "B",
+    "question": "113.The most ___ memo from the personnel department announced five new job openings. ",
+    "A": "constant",
+    "B": "recent",
+    "C": "occupied",
+    "D": "modern"
+  },
+  {
+    "idQuestion": "114",
+    "answerCorrect": "D",
+    "question": "114. The board of trustees will ___ vote on the revised proposal at its meeting later this month. ",
+    "A": "define",
+    "B": "definite",
+    "C": "definitive",
+    "D": "definitely"
+  },
+  {
+    "idQuestion": "115",
+    "answerCorrect": "B",
+    "question": "115. Because of ___ extremely focused customer bases, small business owners can often respond quickly to new economic trends. ",
+    "A": "they",
+    "B": "their",
+    "C": "theirs",
+    "D": "them"
+  },
+  {
+    "idQuestion": "116",
+    "answerCorrect": "C",
+    "question": "116. Payment is ___ at the time you check out of the conference center. ",
+    "A": "expect",
+    "B": "expecting",
+    "C": "expected",
+    "D": "expectation"
+  },
+  {
+    "idQuestion": "117",
+    "answerCorrect": "A",
+    "question": "117.  Officials attribute the ___ in service to a software upgrade that makes the system run faster. ",
+    "A": "improvement",
+    "B": "exchange",
+    "C": "relief",
+    "D": " lift"
+  },
+  {
+    "idQuestion": "118",
+    "answerCorrect": "B",
+    "question": "118.  Mark Jarvela, a junior employee, proposed an innovative project that has been funded by one of the organization’s biggest ___. ",
+    "A": "sponsor",
+    "B": "sponsors",
+    "C": "sponsored",
+    "D": "sponsoring"
+  },
+  {
+    "idQuestion": "119",
+    "answerCorrect": "D",
+    "question": "119. Fargo Electronics has ___ halted production of its newest line of video games until retailers have sold off the existing surplus. ",
+    "A": "consecutively",
+    "B": "energetically",
+    "C": "vacantly",
+    "D": "temporarily"
+  },
+  {
+    "idQuestion": "120",
+    "answerCorrect": "A",
+    "question": "120. Please note that this brochure is intended as information only and does not replace or ___ the product warranty. ",
+    "A": "supplement",
+    "B": "supplements",
+    "C": "supplemented",
+    "D": "supplementing"
+  },
+  {
+    "idQuestion": "121",
+    "answerCorrect": "B",
+    "question": "121. The cost of round-trip air transportation is included ___ the nine-day cruise package. ",
+    "A": "by",
+    "B": "in",
+    "C": "at",
+    "D": "to"
+  },
+  {
+    "idQuestion": "122",
+    "answerCorrect": "D",
+    "question": "122. Or.  Sato has indicated that there may soon be an ___ for an  apprentice technician in the chemical-production laboratory. ",
+    "A": "open",
+    "B": "opened",
+    "C": "openly",
+    "D": "opening"
+  },
+  {
+    "idQuestion": "123",
+    "answerCorrect": "C",
+    "question": "123.  Mr. Hernández is not available at the time the work crew is scheduled to arrive, and ___ is Ms. Hakkonen. ",
+    "A": "so",
+    "B": "also",
+    "C": "neither",
+    "D": "yet"
+  },
+  {
+    "idQuestion": "124",
+    "answerCorrect": "B",
+    "question": "124. The meteorological agency recommended that tourists to the region be ___ dressed for frigid conditions. ",
+    "A": "suitable",
+    "B": "suitably",
+    "C": "suitability",
+    "D": "suitableness"
+  },
+  {
+    "idQuestion": "125",
+    "answerCorrect": "A",
+    "question": "125. Please ___ the bottom portion for your records.",
+    "A": "retain",
+    "B": "retaining",
+    "C": "retains",
+    "D": "retained"
+  },
+  {
+    "idQuestion": "126",
+    "answerCorrect": "B",
+    "question": "126. Repairing the old copy machine would have ___ half as much as buying a new one. ",
+    "A": "lasted",
+    "B": "cost",
+    "C": "spent",
+    "D": "paid"
+  },
+  {
+    "idQuestion": "127",
+    "answerCorrect": "C",
+    "question": "127. The market-research department conducted a ___ on how often people listen to the radio while driving their cars. ",
+    "A": "design",
+    "B": "response",
+    "C": "survey",
+    "D": "broadcast"
+  },
+  {
+    "idQuestion": "128",
+    "answerCorrect": "A",
+    "question": "128. Because the sales representatives were late leaving the office, there was very ___ time for us to talk before the client meeting. ",
+    "A": "little",
+    "B": "small",
+    "C": "short",
+    "D": "brief"
+  },
+  {
+    "idQuestion": "129",
+    "answerCorrect": "D",
+    "question": "129. Editors of the Financial Gazette reserve the right to review advertisements and correct ___ errors in spelling or format. ",
+    "A": "well",
+    "B": "them",
+    "C": "much",
+    "D": "any"
+  },
+  {
+    "idQuestion": "130",
+    "answerCorrect": "C",
+    "question": "130. The National University plays an important ___ in preparing leaders for the country’s educational system. ",
+    "A": "work",
+    "B": "piece",
+    "C": "role",
+    "D": "task"
+  },
+  {
+    "idQuestion": "131",
+    "answerCorrect": "A",
+    "question": "131. Research suggests the health benefits of whole grains come from the ___ of all the nutrients, not just the amount of fiber. ",
+    "A": "combination",
+    "B": "proximity",
+    "C": "working",
+    "D": "settlement"
+  },
+  {
+    "idQuestion": "132",
+    "answerCorrect": "A",
+    "question": "132. Intercity Bus Company will be providing ___ bus service for holiday travelers next weekend. ",
+    "A": "frequent",
+    "B": "often",
+    "C": "numerous",
+    "D": "really"
+  },
+  {
+    "idQuestion": "133",
+    "answerCorrect": "C",
+    "question": "133. Although Dr. Obetz is qualified in several areas, nutritional health is one of her ——.",
+    "A": "specials",
+    "B": "specializes",
+    "C": "specialties",
+    "D": "specialists"
+  },
+  {
+    "idQuestion": "134",
+    "answerCorrect": "B",
+    "question": "134. The president of Corvatech announced that this year’s annual report is ready to be ___ to the company stockholders. ",
+    "A": "published",
+    "B": "distributed",
+    "C": "transacted",
+    "D": "disposed"
+  },
+  {
+    "idQuestion": "135",
+    "answerCorrect": "C",
+    "question": "135.  The institution’s ability to meet its —– growth levels will depend on the commitment of all staff. ",
+    "A": "objected",
+    "B": "aimed",
+    "C": "targeted",
+    "D": "figured"
+  },
+  {
+    "idQuestion": "136",
+    "answerCorrect": "B",
+    "question": "136. Some officials still need ___ of the importance of separate playing fields for young football and baseball players. ",
+    "A": "convince",
+    "B": "to be convinced",
+    "C": "be convincing",
+    "D": "have convinced"
+  },
+  {
+    "idQuestion": "137",
+    "answerCorrect": "D",
+    "question": "137. ___ all the candidates applying for the job, Mr. Wang appears to be the most promising. ",
+    "A": "On",
+    "B": "Between",
+    "C": "Through",
+    "D": "Of"
+  },
+  {
+    "idQuestion": "138",
+    "answerCorrect": "C",
+    "question": "138. In order to make room for new inventory, stores that ___ would not offer promotional discounts might advertise a limited-time sale. ",
+    "A": "solely",
+    "B": "further",
+    "C": "otherwise",
+    "D": "fully"
+  },
+  {
+    "idQuestion": "139",
+    "answerCorrect": "D",
+    "question": "139. The manufacturer guarantees that its cosmetic products are good for three years or until the expiration date on the package, ___ is sooner. ",
+    "A": "what",
+    "B": "when",
+    "C": "that",
+    "D": "whichever"
+  },
+  {
+    "idQuestion": "140",
+    "answerCorrect": "A",
+    "question": "140. The analyst’s commentary in the progress report was sharply ___ of the leadership team. ",
+    "A": "critical",
+    "B": "critic",
+    "C": "critically",
+    "D": "criticism"
+  }
+]

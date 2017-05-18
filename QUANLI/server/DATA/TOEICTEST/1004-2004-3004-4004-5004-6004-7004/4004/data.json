@@ -1,0 +1,272 @@
+[
+  {
+    "idQuestion": "71",
+    "answerCorrect": "A",
+    "question": "Where is the speaker?",
+    "A": "At a hotel",
+    "B": "At a restaurant",
+    "C": "At an electronics store",
+    "D": "At a sports center"
+  },
+  {
+    "idQuestion": "72",
+    "answerCorrect": "B",
+    "question": "What is stated in the talk?",
+    "A": "Room service is available",
+    "B": "Evening entertainment is provided",
+    "C": "The fitness center is closed",
+    "D": "Free computer software is offered"
+  },
+  {
+    "idQuestion": "73",
+    "answerCorrect": "C",
+    "question": "What is included in the group rate?",
+    "A": "All meals",
+    "B": "Internet access",
+    "C": "A concert ticket",
+    "D": "Swimming lessons"
+  },
+  {
+    "idQuestion": "74",
+    "answerCorrect": "D",
+    "question": "Where is this announcement most likely being made?",
+    "A": "At an airport",
+    "B": "At a bus station",
+    "C": "At a ferry terminal",
+    "D": "At a train station"
+  },
+  {
+    "idQuestion": "75",
+    "answerCorrect": "C",
+    "question": "For how long will arrivals be delayed?",
+    "A": "5 minutes",
+    "B": "10 minutes",
+    "C": "45 minutes",
+    "D": "55 minutes"
+  },
+  {
+    "idQuestion": "76",
+    "answerCorrect": "B",
+    "question": "What are passengers traveling to Vermont told to do?",
+    "A": "Speak to a staff member",
+    "B": "Listen for an announcement",
+    "C": "Proceed to the gate",
+    "D": "Make alternate plans"
+  },
+  {
+    "idQuestion": "77",
+    "answerCorrect": "B",
+    "question": "What is the purpose of the message?",
+    "A": "To inquire about a job applicant",
+    "B": "To ask about accommodations",
+    "C": "To offer help with relocation",
+    "D": "To inform a client of an available apartment"
+  },
+  {
+    "idQuestion": "78",
+    "answerCorrect": "A",
+    "question": "How does the speaker ask to be contacted?",
+    "A": "By telephone",
+    "B": "By e-mail",
+    "C": "By letter",
+    "D": "By fax"
+  },
+  {
+    "idQuestion": "79",
+    "answerCorrect": "C",
+    "question": "What will Mr. Santos probably do?",
+    "A": "Attend an event on Manor Drive",
+    "B": "Invite Mr. Chan to his house",
+    "C": "Return Mr. Chan’s call",
+    "D": "Submit an application form"
+  },
+  {
+    "idQuestion": "80",
+    "answerCorrect": "A",
+    "question": "What is the purpose of the meeting?",
+    "A": "To explain security procedures",
+    "B": "To gather employee information",
+    "C": "To describe upcoming repair work",
+    "D": "To introduce staff members"
+  },
+  {
+    "idQuestion": "81",
+    "answerCorrect": "C",
+    "question": "What does the speaker say about the identification cards?",
+    "A": "They will be quite small",
+    "B": "They will be available at the front desk",
+    "C": "They will be used to open the doors",
+    "D": "They will not be required for all employees"
+  },
+  {
+    "idQuestion": "82",
+    "answerCorrect": "D",
+    "question": "What change does the speaker announce?",
+    "A": "The company will acquire more property",
+    "B": "The security department will hire new personnel",
+    "C": "Employees will be required to wear uniforms",
+    "D": "Access to the building will be restricted"
+  },
+  {
+    "idQuestion": "83",
+    "answerCorrect": "D",
+    "question": "What is being announced?",
+    "A": "An annual sale",
+    "B": "A holiday closure",
+    "C": "The remodeling of a store",
+    "D": "The opening of a new location"
+  },
+  {
+    "idQuestion": "84",
+    "answerCorrect": "D",
+    "question": "What does Walton’s sell?",
+    "A": "Computers",
+    "B": "Clothing",
+    "C": "Food",
+    "D": "Furniture"
+  },
+  {
+    "idQuestion": "85",
+    "answerCorrect": "B",
+    "question": "How many stores does Walton’s have?",
+    "A": "One",
+    "B": "Two",
+    "C": "Three",
+    "D": "Four"
+  },
+  {
+    "idQuestion": "86",
+    "answerCorrect": "A",
+    "question": "According to the announcement, why will production be temporarily stopped?",
+    "A": " For equipment maintenance",
+    "B": "For safety improvements",
+    "C": "For workstation upgrades",
+    "D": "For quality reviews"
+  },
+  {
+    "idQuestion": "87",
+    "answerCorrect": "B",
+    "question": "For how long is the production line expected to be shut down?",
+    "A": "One hour",
+    "B": "Two hours",
+    "C": "Three hours",
+    "D": "Four hours"
+  },
+  {
+    "idQuestion": "88",
+    "answerCorrect": "D",
+    "question": "What will the workers do while production is stopped?",
+    "A": "Review maintenance manuals",
+    "B": "Complete production reports",
+    "C": "Clean up the factory floor",
+    "D": "Assist with packing items"
+  },
+  {
+    "idQuestion": "89",
+    "answerCorrect": "B",
+    "question": "What is the message mainly about?",
+    "A": "Product availability",
+    "B": "Flight arrangements",
+    "C": "A sales opportunity",
+    "D": "A meeting schedule"
+  },
+  {
+    "idQuestion": "90",
+    "answerCorrect": "A",
+    "question": "Who most likely is Sharon Hartford?",
+    "A": "A travel agent",
+    "B": "A convention planner",
+    "C": "A computer technician",
+    "D": "A sales representative"
+  },
+  {
+    "idQuestion": "91",
+    "answerCorrect": "B",
+    "question": "What does the caller suggest the man do?",
+    "A": "Send a fax",
+    "B": "Make a phone call",
+    "C": "Visit her office",
+    "D": "Write an e-mail"
+  },
+  {
+    "idQuestion": "92",
+    "answerCorrect": "B",
+    "question": "What are on display at the museum?",
+    "A": "Photographs",
+    "B": "Sculptures",
+    "C": "Paintings",
+    "D": "Machines"
+  },
+  {
+    "idQuestion": "93",
+    "answerCorrect": "B",
+    "question": "What is unusual about the Susan Willis exhibit?",
+    "A": "It includes objects that move",
+    "B": "It features life-size statues",
+    "C": "It has many antique items",
+    "D": "It is the only exhibit of its kind"
+  },
+  {
+    "idQuestion": "94",
+    "answerCorrect": "C",
+    "question": "Where is the gift shop located?",
+    "A": "On the first floor",
+    "B": "Next to the Karina exhibit",
+    "C": "Across from the cafeteria",
+    "D": "By the Susan Willis exhibit"
+  },
+  {
+    "idQuestion": "95",
+    "answerCorrect": "D",
+    "question": "Where will the next committee meeting take place?",
+    "A": "At the Courier Hotel",
+    "B": "In the lunch room",
+    "C": "In a conference room",
+    "D": "In the library"
+  },
+  {
+    "idQuestion": "96",
+    "answerCorrect": "C",
+    "question": "What should employees do if they are planning to attend the retirement dinner?",
+    "A": "Bring a gift to the dinner",
+    "B": "Purchase a ticket",
+    "C": "Reply by next Wednesday",
+    "D": "Contact the committee"
+  },
+  {
+    "idQuestion": "97",
+    "answerCorrect": "A",
+    "question": "What does the speaker mention?",
+    "A": "The conference room will be renovated soon",
+    "B": "Donations of fifteen dollars are encouraged",
+    "C": "Fewer employees are retiring this year than last year",
+    "D": "The committee is seeking new members"
+  },
+  {
+    "idQuestion": "98",
+    "answerCorrect": "D",
+    "question": "What surprising trend was reported?",
+    "A": "People are happiest before retirement",
+    "B": "Workers are spending less time at their jobs",
+    "C": "Many workers are not commuting to work",
+    "D": "Workers who make the most money are the least satisfied"
+  },
+  {
+    "idQuestion": "99",
+    "answerCorrect": "B",
+    "question": "What reason is suggested for the trend?",
+    "A": "Many workers prefer to live far from their jobs",
+    "B": "Successful employees have more responsibility",
+    "C": "Employees must take work home to finish it",
+    "D": "Workers see their colleagues infrequently"
+  },
+  {
+    "idQuestion": "100",
+    "answerCorrect": "C",
+    "question": "What does the speaker recommend?",
+    "A": "Looking for a job with fewer responsibilities",
+    "B": "Working fewer hours each day",
+    "C": "Spending time with family and friends",
+    "D": "Changing careers every few years"
+  }
+]

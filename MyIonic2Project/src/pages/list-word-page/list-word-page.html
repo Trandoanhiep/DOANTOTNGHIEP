@@ -1,0 +1,28 @@
+<!--
+  Generated template for the ListWordPage page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title (click)="stopAudio()">{{ lesson.name }}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+	<ion-list>
+          <div class="item" *ngFor="let item of listWords" (click)="showDetailWord(item)" >
+              	<p class="word">{{ item.word }}</p>
+              	<p class="mean">{{ item.mean }}</p>
+              	<!-- <img src="./assets/images/UK-Flag.png"> -->
+              	<ion-icon class="icon-volume" name="volume-down" (click)="playAudio($event,item.audio)"></ion-icon>
+          </div>
+      </ion-list>
+</ion-content>
+<!-- <ion-footer>
+  <button ion-button color="primary" (click)="goToPractice()">Luyện tập</button>
+</ion-footer> -->

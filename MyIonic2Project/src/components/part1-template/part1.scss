@@ -1,0 +1,29 @@
+page-courses{
+    ion-content{
+        background: #ddeaf7!important;
+    }
+
+    .item{
+        width: 42%;
+        margin-left: 5%;
+        background: white;
+        border-radius: 50% 50% 4% 4%;
+        float:left;
+        margin-top:10px;
+        box-shadow: 2px 3px rgba(12, 12, 12, 0.2);
+    }
+
+    .item img{
+        height: 100%;
+        width: 100%;
+        border-radius: 50%;
+    }
+
+    .item p{
+        height: 30px;
+        padding: 0px 4px;
+        margin-top: 6px;
+        text-align: center;
+        color: #c16809;
+    }
+}

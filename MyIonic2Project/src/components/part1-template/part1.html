@@ -1,0 +1,22 @@
+<div>
+	<div class="play-audio">
+		<ion-icon class="audio" md="md-{{iconAudio}}" ios="ios-{{iconAudio}}" 
+		(click)="playAudio(PART1.audio)"></ion-icon>
+	</div>
+	<div class="list-question">
+		<div class="quesstion" style="margin-top: 10px;" *ngFor="let q of PART1.data">
+			<p class="stt">{{ q.idQuestion }}.</p>
+			<img class="img" src="{{ q.image }}">
+			<div class="list-radio" style="margin-top: 10px;">
+				<div class="answer"><input type="radio" name="answers-{{ q.idQuestion }}" value="A"></div>
+				<div class="answer"><input type="radio" name="answers-{{ q.idQuestion }}" value="B"></div>
+				<div class="answer"><input type="radio" name="answers-{{ q.idQuestion }}" value="C"></div>
+				<div class="answer"><input type="radio" name="answers-{{ q.idQuestion }}" value="D"></div>
+			</div>
+		</div>
+		<div class="finish-part" (click)="finishPart(1)">
+			<p>Tiếp</p>
+			<ion-icon class="next" ios="ios-arrow-forward" md="md-arrow-forward" ></ion-icon>
+		</div>
+	</div>
+</div>

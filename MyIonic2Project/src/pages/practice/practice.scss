@@ -1,0 +1,30 @@
+page-practice {
+
+}
+
+page-practice .item{
+	height: 120px;
+	position: relative;
+}
+page-practice .item .name{
+	position: absolute;
+	top: 10px;
+	left: 100px;
+	color: rgb(219, 40, 40);
+	font-size: 18px;
+	width: 60%;
+	margin-top: 6px;
+}
+page-practice .item img{
+	height: 90px;
+	position: absolute;
+	top: 15px;
+	left: 0px;
+}
+page-practice .item .des{
+	position: absolute;
+	left: 100px;
+	top: 32px;
+	font-style: italic;
+	color: rgb(150, 136, 136);
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'>To: M. Brown<br> From: K. Ikeda<br> Date: July 11 <p>Subject: New Work Assignment</p> <p>I want to congratulate you on your <strong> __(141)__</strong> work on the revised Essex project.</p> <p>I think your timeline will allow us to keep the project moving while giving us enough time to work through the technical problems. Dividing the work <strong> __(142)__</strong> the four teams is a much more efficient approach, and as you saw at today’s meeting, it addresses the needs of all parties involved.</p> <p>Because you’ve become so familiar with the project, I’d like you to <strong> __(143)__</strong> the progress in the technical area. I know that this will be your first managerial role, but your efforts on the timeline and other projects indicate to me that you are capable of it.</p> <p>Let me know how you feel about this.</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "141",
+        "answerCorrect": "A",
+        "A": "outstanding",
+        "B": "expressive",
+        "C": "chief",
+        "D": "restrained"
+      },
+      {
+        "idQuestion": "142",
+        "answerCorrect": "C",
+        "A": "above",
+        "B": "through",
+        "C": "among",
+        "D": "before"
+      },
+      {
+        "idQuestion": "143",
+        "answerCorrect": "B",
+        "A": "imagine",
+        "B": "supervise",
+        "C": "transfer",
+        "D": "exchange"
+      }
+    ]
+  },
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'><p>Critics of a proposed department store in Wintertown’s historical district have won their battle to block its development. They have prompted M&amp;S, Ltd., the property developer, <strong> __(144)__</strong> its plans for the area near the waterfront where an old grain warehouse collapsed last yeaι M&amp;S, Ltd., has failed to convince the local government planning authority that the development would be in keeping with the style of <strong> __(145)__</strong> a sensitive location.</p> <p>The site is not in the center of the historical district.<strong>  __(146)__</strong>, the store would be visible from Butler’s Wharf and the cobbled streets that form the heart of old Wintertown.</p> <p>This area attracts thousands of visitors annually.</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "144",
+        "answerCorrect": "B",
+        "A": "withdrawn",
+        "B": "to withdraw",
+        "C": "withdrawing",
+        "D": "have withdrawn"
+      },
+      {
+        "idQuestion": "145",
+        "answerCorrect": "A",
+        "A": "such",
+        "B": "like",
+        "C": "so what",
+        "D": "some"
+      },
+      {
+        "idQuestion": "146",
+        "answerCorrect": "D",
+        "A": "Unless",
+        "B": "Moreover",
+        "C": "Although",
+        "D": "However"
+      }
+    ]
+  },
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'><p style='text-align: center;'><strong>THERE’S A BIG MARKET OUT THERE!</strong></p> <p>Douglas Marketing Company is offering a new series of seminars that can help you find the markets you need to reach. We offer customized <strong> __(147)__</strong> to help you develop the plan that works for your company.</p> <p>How does it work? Our initial two-day class <strong> __(148)__</strong> you an overview of marketing basics. After that, we’ll arrange a series of meetings between you and one of our expert advisors. Your advisor will visit your workplace to learn firsthand about your business and to discuss your vision for future growth. Together you’ll select key strategies that will help you reach new customers. We’ll help you focus on finding those customers whose needs<strong>  __(149)__</strong> the products and services you provide.</p> <p>Call us at 555-9947 to arrange a meeting today. Your new customers will thank you.</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "147",
+        "answerCorrect": "D",
+        "A": "authority",
+        "B": "significance",
+        "C": "expectations",
+        "D": "assistance"
+      },
+      {
+        "idQuestion": "148",
+        "answerCorrect": "A",
+        "A": "will give",
+        "B": "is giving",
+        "C": "has given",
+        "D": "to give"
+      },
+      {
+        "idQuestion": "149",
+        "answerCorrect": "B",
+        "A": "repeat",
+        "B": "match",
+        "C": "accumulate",
+        "D": "evaluate"
+      }
+    ]
+  },
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'>Dear Business Owner: <p>I am thrilled to tell you about an exciting magazine that will change the way you do business! $010 Business is a weekly magazine devoted to <strong> __(150)__</strong> the small-business owner. It is packed with useful tips such as hiring on a budget, networking with larger businesses, and advertising effectively. In addition, each issue includes motivational stories about small-business owners like you.</p> <p>As an introductory offer, you can now receive Solo Business for the yearly subscription cost of <strong> __(151)__</strong> $100. That’s less than $2 an issue!</p> <p>Don’t miss out on all the valuable information waiting to be delivered to your office every week. Plus, if you <strong> __(152)__</strong> before January 1, you will receive a complimentary diary, engraved with your company name. Call us at 1-800-555-2987 to start your subscription today!</p> <p>Sincerely,</p> <p>Kumar Attaz</p> <p>Editor-in-Chief<br> Business Publications</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "150",
+        "answerCorrect": "B",
+        "A": "receiving",
+        "B": "serving",
+        "C": "approving",
+        "D": "recommending"
+      },
+      {
+        "idQuestion": "151",
+        "answerCorrect": "C",
+        "A": "yet",
+        "B": "all",
+        "C": "just",
+        "D": "quite"
+      },
+      {
+        "idQuestion": "152",
+        "answerCorrect": "A",
+        "A": "order",
+        "B": "to order",
+        "C": "orders",
+        "D": "ordering"
+      }
+    ]
+  }
+]

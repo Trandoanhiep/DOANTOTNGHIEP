@@ -1,0 +1,43 @@
+page-list-word-page {
+
+}
+page-list-word-page .item{
+	height: 56px;
+	border-bottom: 1px solid rgb(201, 194, 194);
+	position: relative;
+}
+page-list-word-page .item .word{
+	margin-top: 8px;
+	margin-bottom: 0px;
+	color: rgb(10, 0, 255);
+	font-size: 18px;
+	width: 90%;
+}
+page-list-word-page .item .phonetic{
+	margin-bottom: 0px;
+	margin-top: 10px;
+	color: rgb(153, 153, 153);
+}
+page-list-word-page .item .mean{
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+page-list-word-page .item .icon-volume{
+	position: absolute;
+	right: 6px;
+	top: 0px;
+	font-size: 22px;
+	padding: 3px 11px 2px 8px;;
+	color: white;
+	border: 1px solid #387ef5;
+	background: #387ef5;
+	border-radius: 50%;
+	height: 30px;
+	width: 32px;
+}
+page-list-word-page ion-footer{
+	height: 60px;
+	text-align: center;
+	padding-top: 6px;
+	background: white;
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'>Most consumers are familiar with bar codes. Those black-and-white stripes appear on almost every product purchased. Often the codes are scanned at the checkout counter, causing the item name and its price to appear on <strong> __(141)__</strong> the cash-register screen and the receipt. This gives a record to the consumer and helps the store managers to monitor inventory. <p>Now, an interesting use for the bar code has been developed by a scientist who works with bees. The scientist attached bar codes to the backs of individual bees in order to <strong> __(142)__</strong> them and to follow their movements. Laser scanners at the entrance of the hive read the bar codes to monitor how long each bee had been gone from the hive.</p> <p>By keeping <strong> __(143)__</strong> of individual bees, scientists hope to learn more about honey production. Knowing how far bees travel to gather pollen and how many trips they make back to the hive could eventually help beekeepers predict honey yields.</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "141",
+        "answerCorrect": "D",
+        "A": "so",
+        "B": "either",
+        "C": "each",
+        "D": "both"
+      },
+      {
+        "idQuestion": "142",
+        "answerCorrect": "A",
+        "A": "identify",
+        "B": "mention",
+        "C": "contradict",
+        "D": "transport"
+      },
+      {
+        "idQuestion": "143",
+        "answerCorrect": "D",
+        "A": "tracking",
+        "B": "to track",
+        "C": "tracked",
+        "D": "track"
+      }
+    ]
+  },
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'><p style='text-align: center;'><strong>The “Real” Piryanka Sundarajan</strong></p> <p style='text-align: center;'>By Ranjit Singh, Staff Reporter</p> <p>While much has been written about famous media mogul Piryanka Sundarajan, little is known about many aspects of her private life.</p> <p>Ms. Sundarajan is married and has two sons. She <strong> __(144)__</strong> her childhood in Indonesia where her father was posted with the National 8ank of India. Ms. Sundarajan retains fond memories of the country. “I was <strong> __(145)__</strong> by everything about Indonesia, especially the architecture.”</p> <p>At United Media Corporation, which Ms. Sundarajan founded as a young college graduate, she is recognized as a tough negotiator. However, she is even better known for her ability to <strong> __(146)__</strong> quality employees satisfied. Hardly one person from the company’s senior staff – be it director, general manager, or deputy general manager -has left the organization in the last fifteen years. Employees attribute this to Ms. Sundarajan’s outstanding leadership qualities.</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "144",
+        "answerCorrect": "D",
+        "A": "spends",
+        "B": "was spending",
+        "C": "was spent",
+        "D": "spent"
+      },
+      {
+        "idQuestion": "145",
+        "answerCorrect": "A",
+        "A": "fascinated",
+        "B": "appealed",
+        "C": "enjoyed",
+        "D": "appreciated"
+      },
+      {
+        "idQuestion": "146",
+        "answerCorrect": "B",
+        "A": "obtain",
+        "B": "keep",
+        "C": "hire",
+        "D": "stay"
+      }
+    ]
+  },
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'><p style='text-align: center;'><strong>SALES STAFF WANTED</strong></p> <p>At Keller Travel, we believe our unrivaled reputation for offering efficient and friendly service to our customers can be <strong> __(147)__</strong> entirely to the commitment, quality, and enthusiasm of our staff.</p> <p>We are looking for well-traveled, energetic people to join our exceptional team. We work long hours, <strong> __(148)__</strong> weekends, in a very busy sales environment. On the other hand, there are marvelous travel <strong> __(149)__</strong>. In addition, we offer one of the travel industry’s best salary packages.</p> <p>To apply please send your résumé with a letter detailing your qualifications to:</p> <p>Deirdre Andersen<br> Keller Travel<br> 210 Elliot Street<br> Boston, MA 02201</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "147",
+        "answerCorrect": "D",
+        "A": "adapted",
+        "B": "acknowledged",
+        "C": "acclaimed",
+        "D": "attributed"
+      },
+      {
+        "idQuestion": "148",
+        "answerCorrect": "C",
+        "A": "includes",
+        "B": "inclusive",
+        "C": "including",
+        "D": "included"
+      },
+      {
+        "idQuestion": "149",
+        "answerCorrect": "A",
+        "A": "opportunities",
+        "B": "descriptions",
+        "C": "destinations",
+        "D": "climates"
+      }
+    ]
+  },
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'>Date: October 25<br> To: Julie Lin, Purchasing<br> From: Peter Melaney, Information Technology<br> Re: New Computer Software <p>As you know, our business <strong> __(150)__</strong> on keeping our computers and electronic documents safe from viruses. With that in mind, I’ve recently looked into two new software options. The license for our current computer-protection software will expire at the end of the year, so this is a good time to consider other possibilities.</p> <p>The first program is called Compu Cleaner, and it comes from a Taiwanese company. Compu Cleaner has been around for many years and is <strong>__(151)__</strong> used in the industry. However, it is quite expensive.</p> <p>The second possibility is a program made in Canada called Viraways. This program is relatively new and has not yet been reviewed. <strong> __(152)__</strong>, its low price makes it a product that we should consider.</p> <p>Please let me know your thoughts on this matter.</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "150",
+        "answerCorrect": "B",
+        "A": "depend",
+        "B": "depends",
+        "C": "depending",
+        "D": "dependable"
+      },
+      {
+        "idQuestion": "151",
+        "answerCorrect": "D",
+        "A": "desirably",
+        "B": "conclusively",
+        "C": "perfectly",
+        "D": "widely"
+      },
+      {
+        "idQuestion": "152",
+        "answerCorrect": "A",
+        "A": "Nevertheless",
+        "B": "Whereas",
+        "C": "Therefore",
+        "D": "Because"
+      }
+    ]
+  }
+]

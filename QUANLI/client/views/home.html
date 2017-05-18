@@ -1,0 +1,27 @@
+<div ng-controller="HomeController as vm" id="home">
+    <div class="form-group" style="width:70%;">
+        <form ><!-- ng-submit="vm.search()" -->
+            <input type="text" class="form-control" placeholder="Tìm kiếm " >
+        </form>
+    </div>
+    <h3 class="title">NHỮNG SÁCH KHÓA HỌC</h3> 
+    <div class='list'>
+    	<div class="course" ng-repeat="item in vm.listCourses">
+    		<img class="img" ng-src="http://localhost:3000/data/{{ item.id }}.jpg">
+    		<div class="info">
+    			<p class="name">{{ item.name }}</p>
+    			<p class="total-lesson">
+                    Số bài : {{ item.subject }}         
+                </p>
+                <p class="total-word">       
+                    Số từ : {{ item.word }}         
+                </p>
+    			<div class="delete-edit" ng-if="user.state == true">
+    				<a href="#/create-edit/{{ item.id }}">Edit</a>
+    				<a ng-click="vm.delete(item.id)">Delete</a>
+    			</div>
+    		</div>
+    	</div>
+    </div>  
+
+</div>

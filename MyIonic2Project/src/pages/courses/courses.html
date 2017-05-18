@@ -1,0 +1,38 @@
+<!--
+  Generated template for the Courses page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  	<ion-navbar>
+  		<button ion-button menuToggle>
+	      	<ion-icon name="menu"></ion-icon>
+	    </button>
+    	<ion-title>Các chủ đề</ion-title>
+  	</ion-navbar>
+</ion-header>
+
+
+<ion-content padding>
+	<ion-list class="list-courses">
+		<div class="item" *ngFor ="let course of listCourses" (click)="selectCourse(course)">
+			<img src="{{ course.image }}">
+			<p>{{ course.name }}</p>
+
+			<!-- <div class="label-downloaded" *ngIf=" course.downloaded == 0 " >
+				<ion-icon ios="ios-download" md="md-download"></ion-icon>
+				Tải xuống
+			</div> -->
+		</div>
+	</ion-list>
+</ion-content>
+
+<ion-footer class="footer footer-md">
+  	<ion-row class="row">
+  		<ion-col class="col" col-4="" *ngFor="let p of pages" (click)="openPage(p)">
+  			<ion-icon class="icon" name="{{ p.icon }}"></ion-icon>
+            <p>{{p.title}}</p>
+  		</ion-col>
+  	</ion-row>
+</ion-footer>

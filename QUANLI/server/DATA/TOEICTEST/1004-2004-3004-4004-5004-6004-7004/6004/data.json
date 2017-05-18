@@ -1,0 +1,118 @@
+[
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'><strong>Information About Your Account</strong> <p>Basic charges for your monthly telephone service are billed 30 days in <strong> __(141)__</strong></p> <p>The total amount due must be received by the due date, which is printed on the lower left- hand corner of your bill. Please enclose the bottom portion of your bill with your payment.</p> <p>This will <strong> __(142)__ </strong>that your payment is credited appropriately.</p> <p>If you are unable to pay your bill in full, please contact Customer Service immediately at 555-4849. We will be glad to help you set up an <strong> __(143)__ </strong>payment plan.</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "141",
+        "answerCorrect": "A",
+        "A": "advance",
+        "B": "advanced",
+        "C": "advancement",
+        "D": "advancing"
+      },
+      {
+        "idQuestion": "142",
+        "answerCorrect": "B",
+        "A": "prove",
+        "B": "ensure",
+        "C": "include",
+        "D": "clarify"
+      },
+      {
+        "idQuestion": "143",
+        "answerCorrect": "C",
+        "A": "alternates",
+        "B": "alternated",
+        "C": "alternative",
+        "D": "alternatively"
+      }
+    ]
+  },
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'>Subject: Exercise at Work Program<br> From: <a>fitworks@metronnel.com</a><br> To: Employees <p>Metronnel invites you to join your colleagues in a free daily exercise program. Each morning an experienced trainer will lead you in a 30-minute <strong> __(144)__</strong> suitable for all ages and levels.</p> <p>Research shows that improved physical conditioning leads to happier workers.</p> <p>&nbsp;<strong> __(145)__</strong> &nbsp;in this employer-sponsored program will help you start your day off well!</p> <p>E-mail <a>fitworks@metronnel.com</a> for more details.</p> <p>Some of you may have received this e-mail message twice. If this has happened, please notify us at the above e-mail address to avoid <strong> __(146)__</strong> postings in the future.</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "144",
+        "answerCorrect": "D",
+        "A": "discussion",
+        "B": "study",
+        "C": "exchange",
+        "D": "routine"
+      },
+      {
+        "idQuestion": "145",
+        "answerCorrect": "B",
+        "A": "Participated",
+        "B": "Participating",
+        "C": "Participate",
+        "D": "Participates"
+      },
+      {
+        "idQuestion": "146",
+        "answerCorrect": "A",
+        "A": "duplicate",
+        "B": "missed",
+        "C": "delayed",
+        "D": "changed"
+      }
+    ]
+  },
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'><p style='text-align: center;'><strong>Audiotimes Reports Strong Profits</strong></p> <p style='text-align: center;'>By Yoshinori Hirakawa</p> <p>Tokyo?Strong sales of digital recording equipment have helped Audiotimes, a Japanese electronics maker, achieve its highest profits in ten years.</p> <p>The company’s chairman, Masayuki Hirano, told reporters last Friday <strong> __(147)__.</strong>Audiotimes’ financial success has “greatly exceeded our expectations.”</p> <p>Many economists say Audiotimes is still too small to be a serious competitor in the electronics market. Some industry analysts,<strong>  __(148)__.</strong>, challenge that assessment. “The executives</p> <p>at Audiotimes do everything right,” says Russell Takayama, a technology reporter for the Japan Business Times. “<strong> __(149)__.</strong> &nbsp;invest heavily in research, find creative solutions to problems, and plan down to the last detail.”</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "147",
+        "answerCorrect": "C",
+        "A": "for",
+        "B": "as",
+        "C": "that",
+        "D": "with"
+      },
+      {
+        "idQuestion": "148",
+        "answerCorrect": "D",
+        "A": "therefore",
+        "B": "furthermore",
+        "C": "likewise",
+        "D": "however"
+      },
+      {
+        "idQuestion": "149",
+        "answerCorrect": "A",
+        "A": "They",
+        "B": "Theirs",
+        "C": "Them",
+        "D": "Themselves"
+      }
+    ]
+  },
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'>Mr. Matt Pinczkowski<br> 1705 Mountain Top Road<br> Littleton, CO 80165<br> 20 MayDear Mr. Pinczkowski, <p>I am writing in response to the proposal you sent me late last week. Soon <strong> __(150)__ </strong>I received your proposal, I learned that the patio construction will require a building permit. In order to apply for the permit, I will need your signature on the enclosed form. Could you please sign the form and return it to me <strong> __(151)__ </strong>a revised construction schedule? As soon as I hear from you,</p> <p>I will send the permit application to the city building inspector. I <strong> __(152)__ &nbsp;</strong>to have the permit no later than mid-July.</p> <p>I apologize for the late notice on this, but I did not know that a permit was necessary until I talked to the city inspector earlier this week.</p> <p>Many thanks for your assistance, and I hope to hear from you soon.</p> <p>Sincerely,</p> <p>Lauren Rutishauser</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "150",
+        "answerCorrect": "D",
+        "A": "when",
+        "B": "upon",
+        "C": "about",
+        "D": "after"
+      },
+      {
+        "idQuestion": "151",
+        "answerCorrect": "B",
+        "A": "apart from",
+        "B": "along with",
+        "C": "up against",
+        "D": "instead of"
+      },
+      {
+        "idQuestion": "152",
+        "answerCorrect": "C",
+        "A": "had expected",
+        "B": "expecting",
+        "C": "expect",
+        "D": "had been expecting"
+      }
+    ]
+  }
+]

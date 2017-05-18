@@ -1,0 +1,154 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Phần Listening</ion-title>
+    <p class="timer"> {{ (time.minute < 10) ? '0' + time.minute : time.minute }} : 
+                      {{ (time.second < 10) ? '0' + time.second : time.second }}
+    </p>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content>
+	<div class="list-tabs">
+		<div class="item-tab part-1 active-tab" (click)="selectPart(1)">PART I</div>
+		<div class="item-tab part-2" (click)="selectPart(2)">PART II</div>
+		<div class="item-tab part-3" (click)="selectPart(3)">PART III</div>
+		<div class="item-tab part-4" (click)="selectPart(4)">PART IV</div>
+	</div>
+
+	<div style="padding:10px" class="content-part">
+		
+		<div class="content-part-1" *ngIf="currentPart == 1">
+			<div class="play-audio">
+				<ion-icon md="md-{{iconAudio}}" ios="ios-{{iconAudio}}" class="audio-icon-p1"
+				(click)="playAudio(dataPart1.audio, 1)"></ion-icon>
+				<ion-range [(ngModel)]="timePlayAudio" color="danger" pin="true" class="disable"></ion-range>
+			</div>
+			<div class="list-question">
+				<div class="quesstion" style="margin-top: 10px;" *ngFor="let q of dataPart1.data">
+					<p class="stt">{{ q.idQuestion }}.</p>
+					<img class="img" src="{{ q.image }}">
+					<div class="list-radio" style="margin-top: 10px;">
+						<div class="answer"><input type="radio" name="answers-{{ q.idQuestion }}" value="A"></div>
+						<div class="answer"><input type="radio" name="answers-{{ q.idQuestion }}" value="B"></div>
+						<div class="answer"><input type="radio" name="answers-{{ q.idQuestion }}" value="C"></div>
+						<div class="answer"><input type="radio" name="answers-{{ q.idQuestion }}" value="D"></div>
+					</div>
+
+					<!-- <ion-list radio-group class="list-radio" style="margin-top: 10px;">
+						<ion-item class="answer">
+						    <ion-label>Go</ion-label>
+						    <ion-radio checked="true" value="go"></ion-radio>
+						</ion-item>
+
+						<ion-item class="answer">
+						    <ion-label>Rust</ion-label>
+						    <ion-radio value="rust"></ion-radio>
+						</ion-item>
+
+						<ion-item class="answer">
+						    <ion-label>Python</ion-label>
+						    <ion-radio value="python" disabled="true"></ion-radio>
+						</ion-item>
+
+						<ion-item class="answer">
+						    <ion-label>Python</ion-label>
+						    <ion-radio value="python" disabled="true"></ion-radio>
+						</ion-item>
+						
+					</ion-list> -->
+				</div>
+				<div class="finish-part" (click)="finishPart(1)">
+					<p>Tiếp</p>
+					<ion-icon class="next" ios="ios-arrow-forward" md="md-arrow-forward" ></ion-icon>
+				</div>
+			</div>
+			<!-- <part1 [PART1]="dataPart1"></part1> -->
+		</div>
+
+
+		<div class="content-part-2" *ngIf="currentPart == 2">
+			<div class="play-audio">
+				<ion-icon md="md-{{iconAudio}}" ios="ios-{{iconAudio}}" class="audio-icon-p2"
+				(click)="playAudio(dataPart2.audio, 2)"></ion-icon>
+				<ion-range [(ngModel)]="timePlayAudio" color="danger" pin="true" class="disable"></ion-range>
+			</div>
+			<div class="list-question">
+				<div class="quesstion" style="margin-top: 10px;"  *ngFor="let q of dataPart2.data" >
+					<p class="stt">{{ q.idQuestion }}. Mark your answer on your answer sheet</p>
+					<div class="list-radio" style="margin-top: 10px;">
+						<div class="answer"  style="width: 33%;padding-bottom: 6px;">
+						<input type="radio" name="answers-{{ q.idQuestion }}" value="A"></div>
+						<div class="answer"  style="width: 33%;padding-bottom: 6px;">
+						<input type="radio" name="answers-{{ q.idQuestion }}" value="B"></div>
+						<div class="answer"  style="width: 33%;padding-bottom: 6px;">
+						<input type="radio" name="answers-{{ q.idQuestion }}" value="C"></div>
+					</div>
+				</div>
+				<div class="finish-part" (click)="finishPart(2)">
+					<p>Tiếp</p>
+					<ion-icon class="next" ios="ios-arrow-forward" md="md-arrow-forward" ></ion-icon>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="content-part-3" *ngIf="currentPart == 3">
+			<div class="play-audio">
+				<ion-icon md="md-{{iconAudio}}" ios="ios-{{iconAudio}}" class="audio-icon-p3"
+				(click)="playAudio(dataPart3.audio, 3)"></ion-icon>
+				<ion-range [(ngModel)]="timePlayAudio" color="danger" pin="true" class="disable"></ion-range>
+			</div>
+			<div class="list-question">
+
+				<div class="quesstion" style="margin-top: 10px;" *ngFor="let q of dataPart3.data" >
+					<p class="stt">{{ q.idQuestion }}. {{ q.question }}</p>
+					<div class="list-radio" style="margin-top: 10px;">
+						<div class="answer-part-34"><input type="radio" name="answers-{{ q.idQuestion }}" value="A"><p>{{ q.A }}</p></div>
+						<div class="answer-part-34"><input type="radio" name="answers-{{ q.idQuestion }}" value="B"><p>{{ q.B }}</p></div>
+						<div class="answer-part-34"><input type="radio" name="answers-{{ q.idQuestion }}" value="C"><p>{{ q.C }}</p></div>
+						<div class="answer-part-34"><input type="radio" name="answers-{{ q.idQuestion }}" value="D"><p>{{ q.D }}</p></div>
+					</div>
+				</div>
+				<div class="finish-part"  (click)="finishPart(3)">
+					<p>Tiếp</p>
+					<ion-icon class="next" ios="ios-arrow-forward" md="md-arrow-forward"></ion-icon>
+				</div>
+			</div>
+		</div>
+
+
+		<div class="content-part-4" *ngIf="currentPart == 4">
+			<div class="play-audio">
+				<ion-icon md="md-{{iconAudio}}" ios="ios-{{iconAudio}}" class="audio-icon-p4"
+				(click)="playAudio(dataPart4.audio, 4)"></ion-icon>
+				<ion-range [(ngModel)]="timePlayAudio" color="danger" pin="true" class="disable"></ion-range>
+			</div>
+			<div class="list-question">
+				<div class="quesstion" style="margin-top: 10px;" *ngFor="let q of dataPart4.data" >
+					<p class="stt">{{ q.idQuestion }}. {{ q.question }}</p>
+					<div class="list-radio" style="margin-top: 10px;">
+						<div class="answer-part-34"><input type="radio" name="answers-{{ q.idQuestion }}" value="A"><p>{{ q.A }}</p></div>
+						<div class="answer-part-34"><input type="radio" name="answers-{{ q.idQuestion }}" value="B"><p>{{ q.B }}</p></div>
+						<div class="answer-part-34"><input type="radio" name="answers-{{ q.idQuestion }}" value="C"><p>{{ q.C }}</p></div>
+						<div class="answer-part-34"><input type="radio" name="answers-{{ q.idQuestion }}" value="D"><p>{{ q.D }}</p></div>
+					</div>
+				</div>
+				<div class="finish-part" (click)="finishPart(4)">
+					<p>Tiếp</p>
+					<ion-icon class="next" ios="ios-arrow-forward" md="md-arrow-forward"></ion-icon>
+				</div>
+			</div>
+		</div>
+
+
+		<div *ngIf="currentPart == 5">
+			<p>Bạn đã hoàn thành phần thi nghe. Hãy nhấn SUBMIT để lưu lại kết quả</p>
+			<button ion-button color="primary" (click)="submit()">submit</button>
+		</div>
+
+	</div>
+
+</ion-content>

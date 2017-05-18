@@ -1,0 +1,2 @@
+1.lớp person trong biểu đồ lớp,khi code ko có class này thì có cho vào trong biểu đồ lớp đk ko ?
+2.Có cần phải viết biểu đồ tuần tự cho tất cả chức năng ko

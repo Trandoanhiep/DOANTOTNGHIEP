@@ -1,0 +1,108 @@
+<ion-header>
+    <ion-navbar>
+    	<ion-title>TOEIC Test</ion-title>
+    </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+	<div class="test">
+		<div class="reading-test" *ngFor="let item of RL" (click)="selectTest(item.page,item.data)">
+			<ion-icon class="img" md="{{ item.image }}"></ion-icon>
+			<p>{{ item.name }}</p>
+			<!-- <ion-icon class="is-finished" md="md-checkmark"></ion-icon> -->
+		</div>
+	</div>
+
+	<p class="btn-result">
+	    <button ion-button color="primary" (click)="showResult()">Kết quả</button>
+	</p>
+
+	<div class="result-test" *ngIf="isShowResult">
+		<div class="total-score">
+			<div class="total">
+				Tổng điểm
+				<p style="margin: 8px;">{{ result.listeningScore + result.readingScore }}/990</p>
+			</div>
+			<div class="listening-reading">
+				<div class="listening" (click)="showDetailScore('listening')">
+					Listening <p style="margin: 4px;">{{ result.listeningScore }}</p>
+				</div>
+				<div class="reading" (click)="showDetailScore('reading')">
+					Reading <p style="margin: 4px;">{{ result.readingScore }}</p>
+				</div>
+			</div>
+		</div>
+		<div class="detail-score listening-score" *ngIf="detailScore == 'listening' ">
+			<ion-list class="list-parts">
+				<div class="part" style="height:94px">
+					<div class="name-part"><p style="margin: 0;padding-top:32px">I</p></div>
+					<ion-list class="list-questions">
+						<div class="item" *ngFor="let r of result.part1 ">
+							<span>{{ r.idQuestion }}</span>
+							<img [src]="r.icon" class="true" [ngClass]="r.class">
+						</div>
+					</ion-list>
+				</div>
+				<div class="part" style="height:260px">
+					<div class="name-part"><p style="margin: 0;padding-top:110px">II</p></div>
+					<ion-list class="list-questions">
+						<div class="item" *ngFor="let r of result.part2 ">
+							<span>{{ r.idQuestion }}</span>
+							<img [src]="r.icon" class="true" [ngClass]="r.class">
+						</div>
+					</ion-list>
+				</div>
+				<div class="part" style="height:260px">
+					<div class="name-part"><p style="margin: 0;padding-top:110px">III</p></div>
+					<ion-list class="list-questions">
+						<div class="item" *ngFor="let r of result.part3 ">
+							<span>{{ r.idQuestion }}</span>
+							<img [src]="r.icon" class="true" [ngClass]="r.class">
+						</div>
+					</ion-list>
+				</div>
+				<div class="part" style="height:260px">
+					<div class="name-part"><p style="margin: 0;padding-top:110px">IV</p></div>
+					<ion-list class="list-questions">
+						<div class="item" *ngFor="let r of result.part4 ">
+							<span>{{ r.idQuestion }}</span>
+							<img [src]="r.icon" class="true" [ngClass]="r.class">
+						</div>
+					</ion-list>
+				</div>
+			</ion-list>
+		</div>
+
+		<div class="detail-score reading-score" *ngIf="detailScore == 'reading' ">
+			<ion-list class="list-parts">
+				<div class="part" style="height:334px">
+					<div class="name-part"><p style="margin: 0;padding-top:170px">V</p></div>
+					<ion-list class="list-questions">
+						<div class="item" *ngFor="let r of result.part5 ">
+							<span>{{ r.idQuestion }}</span>
+							<img [src]="r.icon" class="true" [ngClass]="r.class">
+						</div>
+					</ion-list>
+				</div>
+				<div class="part" style="height:136px">
+					<div class="name-part"><p style="margin: 0;padding-top:50px">VI</p></div>
+					<ion-list class="list-questions">
+						<div class="item" *ngFor="let r of result.part6 ">
+							<span>{{ r.idQuestion }}</span>
+							<img [src]="r.icon" class="true" [ngClass]="r.class">
+						</div>
+					</ion-list>
+				</div>
+				<div class="part" style="height:420px">
+					<div class="name-part"><p style="margin: 0;padding-top:220px">VII</p></div>
+					<ion-list class="list-questions">
+						<div class="item" *ngFor="let r of result.part7 ">
+							<span>{{ r.idQuestion }}</span>
+							<img [src]="r.icon" class="true" [ngClass]="r.class">
+						</div>
+					</ion-list>
+				</div>
+			</ion-list>
+		</div>
+	</div>
+</ion-content>

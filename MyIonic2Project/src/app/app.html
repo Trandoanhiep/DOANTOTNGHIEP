@@ -1,0 +1,39 @@
+<ion-menu [content]="content" (ionOpen)="menuOpenedEvent()" class="menu-app">
+
+  <ion-header>
+    <ion-toolbar>
+      <ion-title *ngIf="currentUser != null ">
+          <p class="avata-menu"> {{ currentUser.fullname[0] }}</p>
+          <p class="user-name-menu"> {{ currentUser.fullname }}</p>
+      </ion-title>
+
+      <ion-title *ngIf="currentUser == null ">
+          <p class="avata-menu">N</p><p>NO NAME</p>
+      </ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-content>
+    <ion-list>
+      <div class="item" *ngFor="let p of pages" (click)="openPage(p)" padding>
+          <ion-icon class="icon" name="{{ p.icon }}"></ion-icon>
+          <p>{{p.title}}</p>
+      </div>
+      <div class="item" (click)="showLoginModal()" padding *ngIf="currentUser == null ">
+          <ion-icon class="icon" name="ios-log-in"></ion-icon>
+          <p>Đăng nhập</p>
+      </div>
+      <div class="item" (click)="logout()" padding *ngIf="currentUser != null ">
+          <ion-icon class="icon" name="ios-log-out"></ion-icon>
+          <p>Đăng xuất</p>
+      </div>
+      <div class="item" (click)="showRegisterModal()" padding>
+          <ion-icon class="icon" name="ios-person-add"></ion-icon>
+          <p>Tạo tài khoản</p>
+      </div>
+    </ion-list>
+  </ion-content>
+
+</ion-menu>
+
+<ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>

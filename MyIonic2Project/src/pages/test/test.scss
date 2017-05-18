@@ -1,0 +1,95 @@
+page-test {
+    ion-content{
+        background: #ddeaf7!important;
+    }
+
+    ion-content h3{
+        text-align: center;
+        color: #387ef5;
+    }
+
+    ion-content .content{
+        text-indent: 20px;
+    }
+
+    ion-content .item{
+        background: white;
+        border: 1px solid #968E8E;
+        padding-left: 12px;
+        border-radius: 4px;
+        position: relative;
+        height: 80px;
+        margin-top: 10px;
+        color: red;
+        overflow: hidden;
+    }
+
+    ion-content .item .stt-test{
+        float: left;
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+        padding-top: 7px;
+        text-align: center;
+        background: #3B42EE;
+        color: white;
+        font-size: 20px;
+        font-weight: bold;
+        margin: 0;
+        margin-top: 16px;
+    }
+
+    ion-content .item .name-test{
+        float: left;
+        font-weight: bold;
+        margin-left: 20px;
+        margin-top: 24px;
+        font-size: 20px;
+    }
+
+    ion-content .vuong-mien{
+        position: absolute;
+        top: 8px;
+        right: 8px;
+    }
+
+    ion-content .vuong-mien .img{
+        height: 20px;
+    }
+
+    .label-downloaded {
+        background-color: green;
+        font-size: 8px;
+        position: absolute;
+        width: 52px;
+        height: 16px;
+        right: -13px;
+        bottom: 5px;
+        transform: rotate(45deg);
+        -webkit-transform: rotate(-45deg);
+        -ms-transform: rotate(45deg);
+        color: white;
+        text-align: center;
+        line-height: 16px;
+    }
+
+    .is-finished{
+        position: absolute;
+        right: 8px;
+        top: 32px;
+        font-size: 12px;
+        width: 80px;
+        text-align: center;
+        color: rgb(22, 73, 22);
+    }
+
+    .score{
+        position: absolute;
+        right: 8px;
+        top: 50px;
+        font-size: 12px;
+        width: 80px;
+        text-align: center;
+        color: rgb(22, 73, 22);
+    }
+}

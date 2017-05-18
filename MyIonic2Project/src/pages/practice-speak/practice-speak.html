@@ -1,0 +1,37 @@
+<ion-header>
+  	<ion-navbar>
+    	<ion-title>Luyện nói</ion-title>
+  	</ion-navbar>
+</ion-header>
+
+<ion-content padding>
+	<div>
+		<p class="info"> {{ currentQuestion.word }}
+		 	<span> {{ currentQuestion.phonetic }}</span>
+		 	<ion-icon class="icon-volume" name="volume-down" (click)="playAudio(currentQuestion.audio)">
+		 	</ion-icon>
+		</p>
+		<p class=""> {{ text }} </p>
+	</div>
+
+	<div class="icon-recognition">
+		<div class="speak" *ngIf="!isSpeaking"><!--  -->
+			<img class="icon-speak" src="./assets/images/ic_speak.png" (click)="speak()">
+			<p>Click để nói</p>
+	    </div>
+
+	    <div class="recorder-container" id="stop-recognition" *ngIf="isSpeaking">
+	  	    <div class="outer"></div>
+	  	    <div class="outer-2"></div>
+	  	    <div class="icon-microphone">
+	  	      	<img class="icon-speak" src="./assets/images/ic_speak.png">
+	  	    </div>
+		</div>
+	</div>
+</ion-content>
+
+<ion-footer>
+	<button class="btn-next" ion-button color="secondary" (click)="nextQuestion()">Next</button>
+</ion-footer>
+
+

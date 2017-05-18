@@ -1,0 +1,32 @@
+ 
+ {
+  "Tests" : [
+    {
+      "idTest": "1001-2001-3001-4001-5001-6001-7001",
+      "reading": 0,
+      "listening": 0,
+      "finished": 0,
+      "downloaded" : 0
+    },
+    {
+      "idTest": "1002-2002-3002-4002-5002-6002-7002",
+      "reading": 0,
+      "listening": 0,
+      "finished": 0,
+      "downloaded" : 0
+    },
+    {
+      "idTest": "1003-2003-3003-4003-5003-6003-7003",
+      "reading": 0,
+      "listening": 0,
+      "finished": 0,
+      "downloaded" : 0
+    },{
+      "idTest": "1004-2004-3004-4004-5004-6004-7004",
+      "reading": 0,
+      "listening": 0,
+      "finished": 0,
+      "downloaded" : 0
+    }
+  ]
+ }

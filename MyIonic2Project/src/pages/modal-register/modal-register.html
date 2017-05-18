@@ -1,0 +1,34 @@
+<ion-content>
+	<div class="container">
+		<div style="text-align: center;">
+			<img src="./assets/images/register-form.png">
+		</div>
+
+		<ion-list>
+			<ion-item>
+	    		<ion-label floating>Họ và tên</ion-label>
+		    	<ion-input type="text" [(ngModel)]="fullname"></ion-input>
+		  	</ion-item>
+
+		  	<ion-item>
+	    		<ion-label floating>Email</ion-label>
+		    	<ion-input type="text" [(ngModel)]="email"></ion-input>
+		  	</ion-item>
+
+		  	<ion-item>
+		    	<ion-label floating>Mật khẩu</ion-label>
+		    	<ion-input type="password" [(ngModel)]="password"></ion-input>
+		  	</ion-item>
+
+		  	<ion-item>
+		    	<ion-label floating>Nhập lại mật khẩu</ion-label>
+		    	<ion-input type="password" [(ngModel)]="confirmPassword"></ion-input>
+		  	</ion-item>
+
+		  	<button class="btn-login" ion-button outline (click)="register()">Submit</button>
+		  	<button class="btn-login" ion-button outline (click)="dismiss()">Hủy</button>
+		</ion-list>
+		
+	</div>
+		
+</ion-content>

@@ -1,0 +1,118 @@
+[
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'>To: All head office personnel &lt;allpersonnel@tronicaville.com&gt;<br> From: Central security &lt;security@tronicaville.com&gt;<br> Subject: New construction <p>Please pass the following information on to <strong> __(141)__</strong> in your area who might need a reminder.</p> <p>In <strong> __(142)__</strong> for the factory expansion, the southeast section of parking lot C is now permanently closed.</p> <p>This area will be completely fenced in, and excavation will begin shortly.</p> <p>During the construction period, delays should be expected in entering and leaving parking lot C. Watch for construction equipment and personnel working in the area. You must pay special attention to all <strong> __(143)__</strong> traffic signs. The locations of these signs will change as the workers move to different areas of the site.</p> <p>If you have any questions, please contact Marty Spencer at extension 7845.</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "141",
+        "answerCorrect": "B",
+        "A": "ones",
+        "B": "others",
+        "C": "every",
+        "D": "them"
+      },
+      {
+        "idQuestion": "142",
+        "answerCorrect": "B",
+        "A": "founding",
+        "B": "preparation",
+        "C": "support",
+        "D": "provision"
+      },
+      {
+        "idQuestion": "143",
+        "answerCorrect": "C",
+        "A": "city",
+        "B": "sudden",
+        "C": "temporary",
+        "D": "modern"
+      }
+    ]
+  },
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'><p><strong>Wellness in the Workplace</strong></p> <p><strong> __(144)__ </strong>health care costs remain an issue of great concern for many employers.</p> <p>“People are working more hours, and at the same time/ medical costs are rising, so it makes sense to promote wellness,” says Morris Hsiu, health services coordinator for Greenview Marketing in Kelowna, British Columbia. “It costs less to build and staff a gym than it does to pay for health care, train new staff, or hire temporary staff to take over when someone becomes ill <strong> __(145)__ </strong>stress or overwork.”</p> <p>At Greenview, as at other companies, employees who use the gym are more relaxed and productive and spend fewer days away from work due to illness, thus saving the company money.</p> <p>Hsiu recommends that companies start with small steps to <strong> __(146)__ </strong>encourage good health. Some suggestions from Hsiu include bringing in instructors to provide classes in stretching or aerobics, and hiring nutrition consultants for diet information.</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "144",
+        "answerCorrect": "A",
+        "A": "Increasing",
+        "B": "Duplicate",
+        "C": "Advancing",
+        "D": "Reciprocal"
+      },
+      {
+        "idQuestion": "145",
+        "answerCorrect": "A",
+        "A": "due to",
+        "B": "of",
+        "C": "since",
+        "D": "more than"
+      },
+      {
+        "idQuestion": "146",
+        "answerCorrect": "C",
+        "A": "acting",
+        "B": "activity",
+        "C": "actively",
+        "D": "active"
+      }
+    ]
+  },
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'>To: employees@marquandmedia.com<br> From: hr@marquandmedia.com<br> Subject: Workplace Tech Awards <p>The Awards Committee is seeking nominations for the second annual Workplace Technology Awards. These awards recognize employees whose innovative use of technology has improved the productivity of their department. Each winner will receive a certificate and $1,000.</p> <p>Employees can be nominated by coworkers, supervisors, or administrators, <strong> __(147)__</strong> only full-time employees are eligible. Nominations should include the name and department of the nominee, a list of technical skills, and <strong> __(148)__</strong> of the innovative application of technology in the workplace.</p> <p>Please send nominations to Dave Salazar at Box 354224 by April 15, The Awards Committee, which consists of board members, shareholders, and department leaders,&nbsp;<strong> __(149)__</strong> &nbsp;all nominations.</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "147",
+        "answerCorrect": "D",
+        "A": "also",
+        "B": "until",
+        "C": "instead",
+        "D": "although"
+      },
+      {
+        "idQuestion": "148",
+        "answerCorrect": "C",
+        "A": "evident",
+        "B": "evidently",
+        "C": "evidence",
+        "D": "evidential"
+      },
+      {
+        "idQuestion": "149",
+        "answerCorrect": "D",
+        "A": "reviewed",
+        "B": "has reviewed",
+        "C": "will be reviewed",
+        "D": "will review"
+      }
+    ]
+  },
+  {
+    "paragraph": "<div style='border:2px solid;padding:2px'><strong>Young Designer Showcase</strong> <p>Trends Unlimited is promoting its Young Designer Showcase to meet the needs of the changing fashion market. The fashion industry in India is witnessing a revolution.</p> <p>Currently, the fashion shows and garment fairs are <strong> __(150)__</strong> by a few top designers and a handful of brands. However, a new crop of designers is <strong> __(151)__&nbsp;</strong>to challenge the established and conventional industry leaders. Young Designer Showcase will provide a place for these young creative designers to <strong> __(152)__</strong> their talents. The products on display will range from high-fashion dresses to jewelry and accessories. The event will attract fashion-conscious consumers as well as bulk-buying agents of international labels looking for original concepts.</p></div>",
+    "listquestion": [
+      {
+        "idQuestion": "150",
+        "answerCorrect": "A",
+        "A": "dominated",
+        "B": "avoided",
+        "C": "invited",
+        "D": "displayed"
+      },
+      {
+        "idQuestion": "151",
+        "answerCorrect": "B",
+        "A": "eagerly",
+        "B": "eager",
+        "C": "eagerness",
+        "D": "more eager"
+      },
+      {
+        "idQuestion": "152",
+        "answerCorrect": "B",
+        "A": "attract",
+        "B": "exhibit",
+        "C": "perform",
+        "D": "deliver"
+      }
+    ]
+  }
+]
